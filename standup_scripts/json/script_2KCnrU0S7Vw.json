@@ -1,0 +1,7853 @@
+{
+  "video_id": "2KCnrU0S7Vw",
+  "timeline": [
+    {
+      "start": 51.57,
+      "end": 53.49,
+      "role": "comedian",
+      "content": "for that Southern hospitality.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 53.49,
+      "end": 54.53,
+      "role": "comedian",
+      "content": "My goodness.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 54.53,
+      "end": 59.02,
+      "role": "comedian",
+      "content": "Wow.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 59.02,
+      "end": 61.22,
+      "role": "comedian",
+      "content": "Y'all really know how to make a fella feel good?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 60.48,
+      "end": 60.96,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 62.62,
+      "end": 66.26,
+      "role": "comedian",
+      "content": "Just walking out here, seeing all these faces.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 67.46,
+      "end": 68.78,
+      "role": "comedian",
+      "content": "I was thinking to myself,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 68.78,
+      "end": 75.99,
+      "role": "comedian",
+      "content": "I'm glad I wore my finest attire for everybody tonight.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 75.99,
+      "end": 81.42,
+      "role": "comedian",
+      "content": "I'm glad somebody likes my outfit.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 81.42,
+      "end": 84.1,
+      "role": "comedian",
+      "content": "Yeah, because my wife don't.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 85.74,
+      "end": 86.66,
+      "role": "comedian",
+      "content": "Oh, no, no, no.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 86.66,
+      "end": 90.5,
+      "role": "comedian",
+      "content": "She says, I look like the wish version of Magic Mike.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 90.54,
+      "end": 98.11,
+      "role": "comedian",
+      "content": "Maybe ask yourself,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 98.11,
+      "end": 105.19,
+      "role": "comedian",
+      "content": "why would a 36 year old grown male be wearing shorty shorts?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 104.64,
+      "end": 105.12,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 105.47,
+      "end": 109.08,
+      "role": "comedian",
+      "content": "They make my legs look longer.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 109.08,
+      "end": 111.94,
+      "role": "comedian",
+      "content": "I look taller.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 111.94,
+      "end": 113.34,
+      "role": "comedian",
+      "content": "I guarantee you when I walked out here,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 113.34,
+      "end": 117.03,
+      "role": "comedian",
+      "content": "y'all thought I was at least six foot three.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 117.03,
+      "end": 117.87,
+      "role": "comedian",
+      "content": "That's right.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 119.07,
+      "end": 122.67,
+      "role": "comedian",
+      "content": "Ladies and gentlemen, as you look up here tonight,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 122.67,
+      "end": 129.62,
+      "role": "comedian",
+      "content": "you all see a man with a beautiful beard,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 129.78,
+      "end": 135.14,
+      "role": "comedian",
+      "content": "majestic tattoos, and the chiseled body",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 135.14,
+      "end": 136.74,
+      "role": "comedian",
+      "content": "of a redneck god.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 136.74,
+      "end": 144.82,
+      "role": "comedian",
+      "content": "I'd always been this man.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 138.24,
+      "end": 139.68,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 139.68,
+      "end": 141.6,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 146.38,
+      "end": 151.06,
+      "role": "comedian",
+      "content": "Well, I've always been a man.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 149.76,
+      "end": 150.24,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 151.06,
+      "end": 152.1,
+      "role": "comedian",
+      "content": "I've always had a wiener.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 152.1,
+      "end": 159.11,
+      "role": "comedian",
+      "content": "That's not what I'm trying to say.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 157.92000000000002,
+      "end": 158.4,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 159.11,
+      "end": 161.15,
+      "role": "comedian",
+      "content": "What I'm trying to say is,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 161.28,
+      "end": 161.76,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 162.23,
+      "end": 166.55,
+      "role": "comedian",
+      "content": "in my early 20s, I was a different man.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 167.47,
+      "end": 168.47,
+      "role": "comedian",
+      "content": "This is all true.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 168.47,
+      "end": 171.75,
+      "role": "comedian",
+      "content": "I was a man who suffered from drug addiction.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 172.63,
+      "end": 173.95,
+      "role": "comedian",
+      "content": "Yes.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 173.95,
+      "end": 176.55,
+      "role": "comedian",
+      "content": "First, I started off like anybody else.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 176.55,
+      "end": 180.1,
+      "role": "comedian",
+      "content": "Just smoking weed.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 180.1,
+      "end": 182.62,
+      "role": "comedian",
+      "content": "Yeah, I smoke weed,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 182.62,
+      "end": 187.82,
+      "role": "comedian",
+      "content": "but I didn't like it and it didn't like me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 187.82,
+      "end": 193.78,
+      "role": "comedian",
+      "content": "I tried so many times to form a relationship with marijuana.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 191.52,
+      "end": 192.48,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 193.78,
+      "end": 197.02,
+      "role": "comedian",
+      "content": "Every time I tried, same outcome.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 197.02,
+      "end": 199.38,
+      "role": "comedian",
+      "content": "Me and all my buddies would get together.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 199.38,
+      "end": 200.98,
+      "role": "comedian",
+      "content": "My friend would roll one up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 200.98,
+      "end": 201.82,
+      "role": "comedian",
+      "content": "He'd light it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 201.82,
+      "end": 210.17,
+      "role": "comedian",
+      "content": "He'd start laughing and giggling.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 204.0,
+      "end": 204.48,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 210.17,
+      "end": 211.45,
+      "role": "comedian",
+      "content": "Pass it to my other buddy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 211.45,
+      "end": 217.31,
+      "role": "comedian",
+      "content": "He'd start laughing and giggling.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 216.0,
+      "end": 216.48,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 217.31,
+      "end": 218.23,
+      "role": "comedian",
+      "content": "Pass it to me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 218.23,
+      "end": 219.67,
+      "role": "comedian",
+      "content": "I would.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 219.67,
+      "end": 221.95,
+      "role": "comedian",
+      "content": "And then I would go hide in the closet",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 221.95,
+      "end": 234.26,
+      "role": "comedian",
+      "content": "and cry for three hours.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 224.16,
+      "end": 227.04,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 234.26,
+      "end": 236.06,
+      "role": "comedian",
+      "content": "I moved on from marijuana",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 237.1,
+      "end": 244.52,
+      "role": "comedian",
+      "content": "and I started experimenting with a drug called ecstasy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 244.52,
+      "end": 248.24,
+      "role": "comedian",
+      "content": "Now I'm in absolutely no way shape",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 248.24,
+      "end": 251.0,
+      "role": "comedian",
+      "content": "or form condoning ecstasy,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 251.0,
+      "end": 258.78,
+      "role": "comedian",
+      "content": "but that is a fun drug to do.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 258.78,
+      "end": 261.34,
+      "role": "comedian",
+      "content": "You get around a group of people that you like",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 262.3,
+      "end": 266.4,
+      "role": "comedian",
+      "content": "and trust.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 266.4,
+      "end": 268.6,
+      "role": "comedian",
+      "content": "You turn the lights down low.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 268.6,
+      "end": 270.6,
+      "role": "comedian",
+      "content": "You turn the music on.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 270.6,
+      "end": 271.92,
+      "role": "comedian",
+      "content": "Take you an ecstasy pill.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 271.92,
+      "end": 277.35,
+      "role": "comedian",
+      "content": "Get you some glow sticks.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 277.35,
+      "end": 280.39,
+      "role": "comedian",
+      "content": "You will have a grand old time,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 281.35,
+      "end": 283.35,
+      "role": "comedian",
+      "content": "but I'm gonna warn you.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 283.35,
+      "end": 292.32,
+      "role": "comedian",
+      "content": "You will make love to anything on ecstasy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 292.32,
+      "end": 296.96,
+      "role": "comedian",
+      "content": "And that is exactly why you should never do ecstasy",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 296.96,
+      "end": 307.54,
+      "role": "comedian",
+      "content": "if you are by yourself.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 307.54,
+      "end": 315.25,
+      "role": "comedian",
+      "content": "Storytime.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 315.25,
+      "end": 318.21,
+      "role": "comedian",
+      "content": "One night my wife was working third shift.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 318.21,
+      "end": 320.13,
+      "role": "comedian",
+      "content": "My son said his grandmas,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 320.13,
+      "end": 322.97,
+      "role": "comedian",
+      "content": "I am left at home unsupervised.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 324.65,
+      "end": 329.01,
+      "role": "comedian",
+      "content": "That ain't safe for nobody.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 329.01,
+      "end": 330.57,
+      "role": "comedian",
+      "content": "I'm gonna be a good husband.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 330.57,
+      "end": 334.05,
+      "role": "comedian",
+      "content": "I'm gonna clean up the house, surprise my wife.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 334.05,
+      "end": 335.93,
+      "role": "comedian",
+      "content": "I start cleaning up the house.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 335.93,
+      "end": 339.85,
+      "role": "comedian",
+      "content": "As I'm cleaning, I go to clean out our closet.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 339.85,
+      "end": 341.69,
+      "role": "comedian",
+      "content": "As I'm cleaning out my closet,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 341.69,
+      "end": 345.49,
+      "role": "comedian",
+      "content": "I find a pair of jeans that I had rolled up",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 345.49,
+      "end": 348.89,
+      "role": "comedian",
+      "content": "and hid back in the corner.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 348.89,
+      "end": 350.29,
+      "role": "comedian",
+      "content": "I pull them jeans out",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 350.29,
+      "end": 352.01,
+      "role": "comedian",
+      "content": "and I see a pill hit the ground.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 352.33,
+      "end": 359.83,
+      "role": "comedian",
+      "content": "I pick it up and angels start singing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 359.83,
+      "end": 362.43,
+      "role": "comedian",
+      "content": "And I can see that it is an ecstasy pill.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 363.39,
+      "end": 369.72,
+      "role": "comedian",
+      "content": "And I'm like, well, this is getting digested.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 369.72,
+      "end": 371.52,
+      "role": "comedian",
+      "content": "I ain't a wasteful type of person.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 372.72,
+      "end": 373.56,
+      "role": "comedian",
+      "content": "I took it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 374.72,
+      "end": 376.44,
+      "role": "comedian",
+      "content": "I turned the lights down low.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 376.44,
+      "end": 377.56,
+      "role": "comedian",
+      "content": "I turned the music on",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 377.56,
+      "end": 389.56,
+      "role": "comedian",
+      "content": "and I start vacuuming in a very sexual fashion.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 389.56,
+      "end": 391.08,
+      "role": "comedian",
+      "content": "Things start getting foggy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 392.68,
+      "end": 396.1,
+      "role": "comedian",
+      "content": "I start sweating a lot.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 396.1,
+      "end": 399.18,
+      "role": "comedian",
+      "content": "Next thing I know, darkness.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 400.78,
+      "end": 403.28,
+      "role": "comedian",
+      "content": "Next thing I know, I'm hearing a door slam shut.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 404.94,
+      "end": 409.48,
+      "role": "comedian",
+      "content": "I feel something shaking me violently.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 408.48,
+      "end": 408.96,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 409.48,
+      "end": 414.48,
+      "role": "comedian",
+      "content": "I wake up and I see my wife looking down at me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 414.6,
+      "end": 423.35,
+      "role": "comedian",
+      "content": "She says, well, hey there pervert.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 417.12,
+      "end": 417.6,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 423.35,
+      "end": 427.94,
+      "role": "comedian",
+      "content": "So why are you naked on the couch?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 426.72,
+      "end": 427.2,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 427.94,
+      "end": 440.39,
+      "role": "comedian",
+      "content": "And why are there holes in my watermelon and cantaloupe?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 433.92,
+      "end": 434.88,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 440.39,
+      "end": 441.23,
+      "role": "comedian",
+      "content": "I was like, I don't know.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 441.23,
+      "end": 451.3,
+      "role": "comedian",
+      "content": "I guess I like to eat my fruit with my penis.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 444.96,
+      "end": 445.44,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 451.3,
+      "end": 457.68,
+      "role": "comedian",
+      "content": "Don't knock it till you try it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 457.68,
+      "end": 464.04,
+      "role": "comedian",
+      "content": "Uh-oh.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 464.04,
+      "end": 466.12,
+      "role": "comedian",
+      "content": "I never tried ecstasy again after that.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 467.28,
+      "end": 469.44,
+      "role": "comedian",
+      "content": "I didn't want my wife to catch me",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 469.44,
+      "end": 475.02,
+      "role": "comedian",
+      "content": "cheating on her with a pineapple.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 475.02,
+      "end": 476.82,
+      "role": "comedian",
+      "content": "Who'd have thought things couldn't get no worse?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 476.82,
+      "end": 477.66,
+      "role": "comedian",
+      "content": "But they did.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 479.22,
+      "end": 481.42,
+      "role": "comedian",
+      "content": "Because I was introduced to a little round pill",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 481.42,
+      "end": 484.62,
+      "role": "comedian",
+      "content": "called oxycodone.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 484.62,
+      "end": 487.84,
+      "role": "comedian",
+      "content": "For six years of my life, I depended on that drug.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 489.06,
+      "end": 491.5,
+      "role": "comedian",
+      "content": "At the peak of my addiction,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 491.5,
+      "end": 494.78,
+      "role": "comedian",
+      "content": "I was taking 10 oxycodone 30s a day.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 496.42,
+      "end": 501.1,
+      "role": "comedian",
+      "content": "Not sure if you know this, but that's expensive.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 501.1,
+      "end": 504.5,
+      "role": "comedian",
+      "content": "Oh boy, $30 a pill.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 505.82,
+      "end": 508.06,
+      "role": "comedian",
+      "content": "I did the math on that.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 508.06,
+      "end": 511.86,
+      "role": "comedian",
+      "content": "I was snorting my double wide trailer payment up my nose",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 512.86,
+      "end": 513.82,
+      "role": "comedian",
+      "content": "every day.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 515.14,
+      "end": 518.34,
+      "role": "comedian",
+      "content": "Or in today's economy, that would equal the value",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 518.34,
+      "end": 520.82,
+      "role": "comedian",
+      "content": "of three Stanley cups.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 520.82,
+      "end": 531.49,
+      "role": "comedian",
+      "content": "Finally got a hold of myself.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 526.08,
+      "end": 526.56,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 528.48,
+      "end": 528.96,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 531.49,
+      "end": 543.63,
+      "role": "comedian",
+      "content": "I cleaned up and I've been sober for going on 12 years.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 535.2,
+      "end": 535.68,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 536.16,
+      "end": 536.64,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 537.12,
+      "end": 539.52,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 540.0,
+      "end": 543.36,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 543.67,
+      "end": 545.31,
+      "role": "comedian",
+      "content": "That's right.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 545.31,
+      "end": 548.42,
+      "role": "comedian",
+      "content": "Sober's fun.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 548.42,
+      "end": 549.98,
+      "role": "comedian",
+      "content": "I'm a family man now.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 550.94,
+      "end": 552.38,
+      "role": "comedian",
+      "content": "I have a beautiful wife.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 553.82,
+      "end": 557.62,
+      "role": "comedian",
+      "content": "I have an amazing son.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 557.62,
+      "end": 560.9,
+      "role": "comedian",
+      "content": "And you know, there's times where I walk into my house",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 560.9,
+      "end": 564.54,
+      "role": "comedian",
+      "content": "and when I walk in, my son's running around acting crazy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 564.54,
+      "end": 567.42,
+      "role": "comedian",
+      "content": "My wife is yelling at my son and man, I just,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 567.42,
+      "end": 572.23,
+      "role": "comedian",
+      "content": "ah, I just stopped and I look at him.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 574.23,
+      "end": 575.51,
+      "role": "comedian",
+      "content": "And I think to myself,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 576.51,
+      "end": 578.95,
+      "role": "comedian",
+      "content": "I'm gonna start doing drugs again.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 578.95,
+      "end": 588.55,
+      "role": "comedian",
+      "content": "I often think to myself, I asked the question,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 582.72,
+      "end": 583.68,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 588.55,
+      "end": 591.19,
+      "role": "comedian",
+      "content": "what could have sparked my drug addiction?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 592.43,
+      "end": 594.35,
+      "role": "comedian",
+      "content": "Because I didn't grow up around any of that stuff.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 594.35,
+      "end": 596.51,
+      "role": "comedian",
+      "content": "My mama was a saint.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 596.51,
+      "end": 597.95,
+      "role": "comedian",
+      "content": "She didn't smoke.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 597.95,
+      "end": 599.79,
+      "role": "comedian",
+      "content": "She didn't drink.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 599.79,
+      "end": 601.79,
+      "role": "comedian",
+      "content": "My mama could take a teaspoon of Nyquil",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 601.79,
+      "end": 605.22,
+      "role": "comedian",
+      "content": "and be out three days.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 605.22,
+      "end": 607.5,
+      "role": "comedian",
+      "content": "I wasn't around that stuff.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 607.5,
+      "end": 610.42,
+      "role": "comedian",
+      "content": "And every time I asked myself what could have sparked",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 610.42,
+      "end": 612.42,
+      "role": "comedian",
+      "content": "my drug addiction, I always come back",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 612.46,
+      "end": 614.62,
+      "role": "comedian",
+      "content": "to the same answer.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 614.62,
+      "end": 617.38,
+      "role": "comedian",
+      "content": "You see, back in the early nineties,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 617.38,
+      "end": 621.46,
+      "role": "comedian",
+      "content": "in elementary school,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 620.16,
+      "end": 620.64,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 621.46,
+      "end": 624.34,
+      "role": "comedian",
+      "content": "we had something called the dare program.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 631.38,
+      "end": 633.34,
+      "role": "comedian",
+      "content": "You know the dare program?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 633.34,
+      "end": 636.9,
+      "role": "comedian",
+      "content": "A uniform police officer would come to your school.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 636.9,
+      "end": 639.82,
+      "role": "comedian",
+      "content": "That police officer would have a piece of poster board",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 639.82,
+      "end": 642.18,
+      "role": "comedian",
+      "content": "and on it, he would have every illegal drug",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 642.18,
+      "end": 645.14,
+      "role": "comedian",
+      "content": "and narcotic taped to it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 646.26,
+      "end": 648.34,
+      "role": "comedian",
+      "content": "He would go to your class.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 648.34,
+      "end": 651.22,
+      "role": "comedian",
+      "content": "He would then educate you on each drug.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 650.88,
+      "end": 651.84,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 652.5,
+      "end": 657.41,
+      "role": "comedian",
+      "content": "He would tell you how to use the drugs.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 657.41,
+      "end": 661.65,
+      "role": "comedian",
+      "content": "And then in order to scare you away from doing the drugs,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 661.65,
+      "end": 664.57,
+      "role": "comedian",
+      "content": "he would tell you the side effects,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 665.97,
+      "end": 672.74,
+      "role": "comedian",
+      "content": "which were always amazing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 672.74,
+      "end": 674.78,
+      "role": "comedian",
+      "content": "And I swear, I think he took every drug",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 674.78,
+      "end": 678.79,
+      "role": "comedian",
+      "content": "on that poster board before he came in.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 678.79,
+      "end": 679.95,
+      "role": "comedian",
+      "content": "He'd walk in that class and be like,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 679.95,
+      "end": 683.24,
+      "role": "comedian",
+      "content": "all right boys and girls,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 683.24,
+      "end": 689.71,
+      "role": "comedian",
+      "content": "this white powder in my hand is called cocaine.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 685.92,
+      "end": 686.4,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 686.88,
+      "end": 687.84,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 689.75,
+      "end": 696.38,
+      "role": "comedian",
+      "content": "I do cocaine unless you wanna have a good time.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 696.38,
+      "end": 697.54,
+      "role": "comedian",
+      "content": "If you snort cocaine,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 697.54,
+      "end": 705.58,
+      "role": "comedian",
+      "content": "it will give you superhuman abilities.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 705.58,
+      "end": 707.82,
+      "role": "comedian",
+      "content": "[SETUP#1] So now me and all my nine year old buddies",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 707.82,
+      "end": 724.75,
+      "role": "comedian",
+      "content": "is out at recess snorting pixie sticks.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 711.84,
+      "end": 712.8,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 713.28,
+      "end": 714.72,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 715.2,
+      "end": 716.16,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 717.12,
+      "end": 719.52,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 724.75,
+      "end": 727.51,
+      "role": "comedian",
+      "content": "We're living a part of the South called the Bible Belt.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 728.83,
+      "end": 730.27,
+      "role": "comedian",
+      "content": "It's called the Bible Belt",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 730.27,
+      "end": 733.07,
+      "role": "comedian",
+      "content": "because everybody here is religious.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 733.07,
+      "end": 735.23,
+      "role": "comedian",
+      "content": "Everybody in this part of the South is religious.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 735.23,
+      "end": 737.03,
+      "role": "comedian",
+      "content": "And there's different types of religions",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 737.03,
+      "end": 740.35,
+      "role": "comedian",
+      "content": "and different religious denominations.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 740.35,
+      "end": 743.31,
+      "role": "comedian",
+      "content": "You got Christians, Catholics, Jewish,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 743.31,
+      "end": 746.19,
+      "role": "comedian",
+      "content": "you got Baptist, you got Presbyterians.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 746.19,
+      "end": 762.29,
+      "role": "comedian",
+      "content": "Hell, my brother's a crystal Methodist.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 751.2,
+      "end": 751.68,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 762.29,
+      "end": 763.57,
+      "role": "comedian",
+      "content": "That's a newer denomination",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 763.57,
+      "end": 767.78,
+      "role": "comedian",
+      "content": "is sweeping the South right now.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 766.08,
+      "end": 766.56,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 767.78,
+      "end": 772.57,
+      "role": "comedian",
+      "content": "Don't get that confused with Southern Methodist.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 772.57,
+      "end": 774.95,
+      "role": "comedian",
+      "content": "Crystal Methodists pay their tithes and offerings",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 774.95,
+      "end": 785.92,
+      "role": "comedian",
+      "content": "with catalytic converters and copper wire.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 780.0,
+      "end": 780.96,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 781.44,
+      "end": 781.92,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 782.88,
+      "end": 783.36,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 785.92,
+      "end": 789.72,
+      "role": "comedian",
+      "content": "And you see Catholics go to confession",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 789.72,
+      "end": 791.6,
+      "role": "comedian",
+      "content": "to ask forgiveness of their sins.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 792.6,
+      "end": 799.9,
+      "role": "comedian",
+      "content": "Crystal Methodist go to trial",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 795.36,
+      "end": 795.84,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 799.9,
+      "end": 806.46,
+      "role": "comedian",
+      "content": "to testify for a reduced sentence.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 803.04,
+      "end": 803.52,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 806.46,
+      "end": 810.04,
+      "role": "comedian",
+      "content": "Speaking of methamphetamines,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 810.04,
+      "end": 812.76,
+      "role": "comedian",
+      "content": "me and my family live way out in the country.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 812.76,
+      "end": 817.76,
+      "role": "comedian",
+      "content": "The closest town to us has a population of 400 people.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 818.06,
+      "end": 824.55,
+      "role": "comedian",
+      "content": "And that town has two dollar gentrals.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 824.55,
+      "end": 831.82,
+      "role": "comedian",
+      "content": "Where there's a field dollar general will build.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 828.0,
+      "end": 828.48,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 831.82,
+      "end": 833.9,
+      "role": "comedian",
+      "content": "When me and my family want some snacks",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 833.9,
+      "end": 837.5,
+      "role": "comedian",
+      "content": "or if we just want some entertainment,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 837.5,
+      "end": 843.46,
+      "role": "comedian",
+      "content": "we drive on down to the DG and we people watch.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 843.46,
+      "end": 844.86,
+      "role": "comedian",
+      "content": "I'm just here to tell you right now,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 844.86,
+      "end": 849.49,
+      "role": "comedian",
+      "content": "if any of you out there have a low self-esteem",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 847.2,
+      "end": 847.68,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 849.49,
+      "end": 853.52,
+      "role": "comedian",
+      "content": "or if you think you ugly,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 853.52,
+      "end": 857.29,
+      "role": "comedian",
+      "content": "drive on down to the dollar general",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 857.29,
+      "end": 860.21,
+      "role": "comedian",
+      "content": "and people watch for 10 minutes.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 860.21,
+      "end": 867.71,
+      "role": "comedian",
+      "content": "You'll leave our feeling like a super model.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 867.71,
+      "end": 870.31,
+      "role": "comedian",
+      "content": "One day me and my son needed some snacks.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 870.31,
+      "end": 872.79,
+      "role": "comedian",
+      "content": "We heading to the dollar general.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 872.79,
+      "end": 874.27,
+      "role": "comedian",
+      "content": "Nice warm spring day.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 874.27,
+      "end": 875.43,
+      "role": "comedian",
+      "content": "I got my winter down.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 875.43,
+      "end": 877.43,
+      "role": "comedian",
+      "content": "He's got his winter down.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 877.43,
+      "end": 879.91,
+      "role": "comedian",
+      "content": "We go to pulling that parking spot at the dollar general.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 879.91,
+      "end": 881.59,
+      "role": "comedian",
+      "content": "The time I pull in that parking spot,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 881.59,
+      "end": 888.63,
+      "role": "comedian",
+      "content": "this lady comes out of nowhere and jumps into my winter.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 886.56,
+      "end": 887.04,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 888.63,
+      "end": 892.47,
+      "role": "comedian",
+      "content": "She starts yelling, talking 100 miles an hour.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 892.47,
+      "end": 894.43,
+      "role": "comedian",
+      "content": "I can't understand the words she's saying.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 894.43,
+      "end": 895.75,
+      "role": "comedian",
+      "content": "The only thing I did observe",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 895.75,
+      "end": 901.28,
+      "role": "comedian",
+      "content": "is she didn't have no teeth in her head.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 901.28,
+      "end": 903.12,
+      "role": "comedian",
+      "content": "She starts asking me for money.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 903.12,
+      "end": 908.94,
+      "role": "comedian",
+      "content": "Just give me $20, give me $30, give me $45.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 908.94,
+      "end": 910.42,
+      "role": "comedian",
+      "content": "My son speaks up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 910.42,
+      "end": 913.48,
+      "role": "comedian",
+      "content": "He says, hey!",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 913.48,
+      "end": 914.4,
+      "role": "comedian",
+      "content": "Getting a tooth fairy,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 914.4,
+      "end": 938.58,
+      "role": "comedian",
+      "content": "give me a lot of money for them teeth.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 917.28,
+      "end": 919.2,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 919.68,
+      "end": 921.6,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 922.08,
+      "end": 924.0,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 938.58,
+      "end": 941.3,
+      "role": "comedian",
+      "content": "I got married when I was 27 years old.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 942.3,
+      "end": 947.3,
+      "role": "comedian",
+      "content": "A lot of my friends got married when they were 19, 20, 21.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 949.5,
+      "end": 950.34,
+      "role": "comedian",
+      "content": "Not me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 951.66,
+      "end": 955.66,
+      "role": "comedian",
+      "content": "I was partying hard, doing drugs,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 956.5,
+      "end": 967.21,
+      "role": "comedian",
+      "content": "having sex with fruit.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 967.21,
+      "end": 972.25,
+      "role": "comedian",
+      "content": "Those were good times.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 972.25,
+      "end": 974.01,
+      "role": "comedian",
+      "content": "One thing I thank God for every day",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 974.01,
+      "end": 974.85,
+      "role": "comedian",
+      "content": "is that when I was single,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 974.85,
+      "end": 977.09,
+      "role": "comedian",
+      "content": "there was no such thing as the Tinder app.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 978.33,
+      "end": 981.27,
+      "role": "comedian",
+      "content": "I dodged a bullet on that one.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 981.27,
+      "end": 983.39,
+      "role": "comedian",
+      "content": "I think that if you sign up for the Tinder app,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 983.39,
+      "end": 991.9,
+      "role": "comedian",
+      "content": "then Tinder should have to send you a bottle of penicillin",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 991.9,
+      "end": 993.94,
+      "role": "comedian",
+      "content": "[SETUP#2] because you never know what you're gonna get into",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 993.94,
+      "end": 995.78,
+      "role": "comedian",
+      "content": "when you meet somebody from the Tinder app,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 995.78,
+      "end": 997.98,
+      "role": "comedian",
+      "content": "if you know what I'm saying.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 997.98,
+      "end": 1000.58,
+      "role": "comedian",
+      "content": "I think that Tinder and them other dating apps",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1000.58,
+      "end": 1002.14,
+      "role": "comedian",
+      "content": "have ruined dating.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1003.14,
+      "end": 1006.7,
+      "role": "comedian",
+      "content": "Because now, somebody can be on the Tinder app,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1006.7,
+      "end": 1008.46,
+      "role": "comedian",
+      "content": "swiping through, they see you,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1008.46,
+      "end": 1013.46,
+      "role": "comedian",
+      "content": "and you just got rejected in the comfort of your own home.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1017.8,
+      "end": 1019.04,
+      "role": "comedian",
+      "content": "Not in my day.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1020.04,
+      "end": 1022.28,
+      "role": "comedian",
+      "content": "In my day, you had to go out to a bar.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1023.48,
+      "end": 1025.56,
+      "role": "comedian",
+      "content": "You saw a girl, you wanted to talk to,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1025.56,
+      "end": 1027.72,
+      "role": "comedian",
+      "content": "you go up to the bar.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1027.72,
+      "end": 1031.76,
+      "role": "comedian",
+      "content": "You buy that girl drinks, you spend all your money,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1031.76,
+      "end": 1038.25,
+      "role": "comedian",
+      "content": "then you get rejected.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1034.88,
+      "end": 1036.8,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1038.25,
+      "end": 1039.29,
+      "role": "comedian",
+      "content": "When I'm talking to somebody",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1039.29,
+      "end": 1041.41,
+      "role": "comedian",
+      "content": "and I find out that they own the Tinder app,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1041.41,
+      "end": 1046.14,
+      "role": "comedian",
+      "content": "oh, I have to ask them why?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1044.96,
+      "end": 1045.92,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1046.14,
+      "end": 1049.22,
+      "role": "comedian",
+      "content": "Why, it's not for that.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1049.22,
+      "end": 1051.06,
+      "role": "comedian",
+      "content": "They'll say the same thing every time.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1051.06,
+      "end": 1057.08,
+      "role": "comedian",
+      "content": "I'm only on Tinder to meet friends.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1057.08,
+      "end": 1059.36,
+      "role": "comedian",
+      "content": "And I completely understand that",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1059.36,
+      "end": 1062.88,
+      "role": "comedian",
+      "content": "because I am only on Pornhub to watch this repair man",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1062.88,
+      "end": 1076.54,
+      "role": "comedian",
+      "content": "fix his naked ladies TV.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1065.12,
+      "end": 1068.48,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1068.96,
+      "end": 1074.24,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1076.54,
+      "end": 1082.33,
+      "role": "comedian",
+      "content": "I've watched it three times, he still ain't fixed it yet.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1082.33,
+      "end": 1083.33,
+      "role": "comedian",
+      "content": "I had to change it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1084.73,
+      "end": 1086.29,
+      "role": "comedian",
+      "content": "Now I'm watching this poor old stepmom",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1086.29,
+      "end": 1091.84,
+      "role": "comedian",
+      "content": "who's stuck under the sink.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1091.84,
+      "end": 1093.36,
+      "role": "comedian",
+      "content": "Ain't nobody helping her.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1093.36,
+      "end": 1104.27,
+      "role": "comedian",
+      "content": "Went on a blind date one time.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1105.23,
+      "end": 1108.62,
+      "role": "comedian",
+      "content": "Now that don't mean the girl was blind.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1108.62,
+      "end": 1109.98,
+      "role": "comedian",
+      "content": "That's what you call going on a date",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1109.98,
+      "end": 1112.34,
+      "role": "comedian",
+      "content": "with somebody you ain't never met.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1112.34,
+      "end": 1115.18,
+      "role": "comedian",
+      "content": "I go to this girl's house to pick her up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1115.18,
+      "end": 1119.26,
+      "role": "comedian",
+      "content": "I pull up, she walks out, gets in the car, shuts the door.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1119.26,
+      "end": 1121.38,
+      "role": "comedian",
+      "content": "First words out of her mouth are,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1121.38,
+      "end": 1132.62,
+      "role": "comedian",
+      "content": "hey, I'm bi.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1128.96,
+      "end": 1129.44,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1132.62,
+      "end": 1141.92,
+      "role": "comedian",
+      "content": "Well, I'm curious.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1141.92,
+      "end": 1145.4,
+      "role": "comedian",
+      "content": "Later on that night, in the bedroom,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1145.4,
+      "end": 1158.65,
+      "role": "comedian",
+      "content": "I found out she meant bi-puller,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1158.65,
+      "end": 1169.04,
+      "role": "comedian",
+      "content": "which still counts as a threesome in my book.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1163.04,
+      "end": 1164.96,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1169.08,
+      "end": 1176.91,
+      "role": "comedian",
+      "content": "In my younger days, when I was a single thoroughbred stallion,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1176.91,
+      "end": 1179.83,
+      "role": "comedian",
+      "content": "I wanted me a girl that was a freak.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1181.03,
+      "end": 1183.31,
+      "role": "comedian",
+      "content": "I got this older cousin.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1183.31,
+      "end": 1184.15,
+      "role": "comedian",
+      "content": "He'd tell me, he'd say,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1184.15,
+      "end": 1186.35,
+      "role": "comedian",
+      "content": "man, get you a girl that's a freak.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1186.35,
+      "end": 1188.55,
+      "role": "comedian",
+      "content": "They'll teach you something.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1188.55,
+      "end": 1190.43,
+      "role": "comedian",
+      "content": "So I did, I found me one that was a freak.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1190.43,
+      "end": 1192.87,
+      "role": "comedian",
+      "content": "And fellas, I'm here to tell you right now,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1192.87,
+      "end": 1195.27,
+      "role": "comedian",
+      "content": "every man wants a woman that's a freak",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1196.27,
+      "end": 1198.79,
+      "role": "comedian",
+      "content": "until you wake up one morning",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1198.79,
+      "end": 1212.11,
+      "role": "comedian",
+      "content": "with a cucumber stuck in your butt.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1202.4,
+      "end": 1202.88,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1204.32,
+      "end": 1205.28,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1212.27,
+      "end": 1227.53,
+      "role": "comedian",
+      "content": "She'll find a hidden belly with that ranch.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1216.32,
+      "end": 1217.28,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1227.53,
+      "end": 1228.77,
+      "role": "comedian",
+      "content": "If you're married,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1228.77,
+      "end": 1235.83,
+      "role": "comedian",
+      "content": "you probably remember the first time you met your spouse.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1235.83,
+      "end": 1239.43,
+      "role": "comedian",
+      "content": "I remember the first time I met my wife.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1239.43,
+      "end": 1242.23,
+      "role": "comedian",
+      "content": "We were both working at the hospital.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1243.11,
+      "end": 1246.51,
+      "role": "comedian",
+      "content": "I was working as a respiratory therapist.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1246.51,
+      "end": 1248.71,
+      "role": "comedian",
+      "content": "She was working as an RN.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1249.95,
+      "end": 1252.55,
+      "role": "comedian",
+      "content": "And yes, I know.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1252.55,
+      "end": 1254.91,
+      "role": "comedian",
+      "content": "It is absolutely terrifying",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1254.91,
+      "end": 1256.87,
+      "role": "comedian",
+      "content": "to think I'm a medical professional.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1260.0,
+      "end": 1260.48,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1260.94,
+      "end": 1265.18,
+      "role": "comedian",
+      "content": "Imagine being wheeled into the emergency room.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1265.18,
+      "end": 1267.74,
+      "role": "comedian",
+      "content": "You're on death's door.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1267.74,
+      "end": 1278.58,
+      "role": "comedian",
+      "content": "And the first face you see is this.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1270.56,
+      "end": 1271.04,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 1272.48,
+      "end": 1272.96,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 1273.92,
+      "end": 1274.88,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1278.58,
+      "end": 1280.66,
+      "role": "comedian",
+      "content": "Then I walk up and whisper in your ear,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1280.66,
+      "end": 1293.39,
+      "role": "comedian",
+      "content": "I'm gonna have to stick my tube down your throat.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1291.68,
+      "end": 1292.16,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1293.39,
+      "end": 1295.11,
+      "role": "comedian",
+      "content": "That's the third one this week.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1295.11,
+      "end": 1302.89,
+      "role": "comedian",
+      "content": "First time I met my wife,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1299.84,
+      "end": 1300.32,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1302.89,
+      "end": 1305.05,
+      "role": "comedian",
+      "content": "I walk into this patient's room.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1305.05,
+      "end": 1307.29,
+      "role": "comedian",
+      "content": "And when I walk in, I look across",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1307.29,
+      "end": 1310.77,
+      "role": "comedian",
+      "content": "and I see this tall, thick,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1312.09,
+      "end": 1314.61,
+      "role": "comedian",
+      "content": "brunette beauty.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1314.61,
+      "end": 1317.01,
+      "role": "comedian",
+      "content": "And she is in the process",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1317.01,
+      "end": 1323.01,
+      "role": "comedian",
+      "content": "of inserting a catheter into a male patient.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1323.01,
+      "end": 1326.69,
+      "role": "comedian",
+      "content": "And that fella's a squirming.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1326.69,
+      "end": 1328.13,
+      "role": "comedian",
+      "content": "And she's holding his pecker",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1328.13,
+      "end": 1345.85,
+      "role": "comedian",
+      "content": "like it's a snake about to bite her.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1331.52,
+      "end": 1332.96,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1333.44,
+      "end": 1333.92,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1345.85,
+      "end": 1347.69,
+      "role": "comedian",
+      "content": "Look in that room.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1346.4,
+      "end": 1346.88,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1347.69,
+      "end": 1352.86,
+      "role": "comedian",
+      "content": "She looks up",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1352.86,
+      "end": 1354.5,
+      "role": "comedian",
+      "content": "and looks me eye to eye.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1355.58,
+      "end": 1366.69,
+      "role": "comedian",
+      "content": "She looks back down and looks it eye to eye.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1366.69,
+      "end": 1368.73,
+      "role": "comedian",
+      "content": "She looks back up",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1368.73,
+      "end": 1384.85,
+      "role": "comedian",
+      "content": "and she winks at me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1383.36,
+      "end": 1383.84,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1384.89,
+      "end": 1386.17,
+      "role": "comedian",
+      "content": "My waiter would be the next one.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1386.17,
+      "end": 1387.41,
+      "role": "comedian",
+      "content": "She was a hold.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1389.12,
+      "end": 1398.72,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1400.69,
+      "end": 1403.25,
+      "role": "comedian",
+      "content": "Could not tell at that point in time",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1403.25,
+      "end": 1405.37,
+      "role": "comedian",
+      "content": "how tall she was.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1405.37,
+      "end": 1407.65,
+      "role": "comedian",
+      "content": "I could tell she was tall,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1407.65,
+      "end": 1409.81,
+      "role": "comedian",
+      "content": "but she was across the room.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1409.81,
+      "end": 1411.61,
+      "role": "comedian",
+      "content": "Come to find out.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1411.61,
+      "end": 1420.34,
+      "role": "comedian",
+      "content": "My wife is five foot 10.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1419.36,
+      "end": 1419.84,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1420.34,
+      "end": 1431.51,
+      "role": "comedian",
+      "content": "And we go on a date the next night,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1431.51,
+      "end": 1433.55,
+      "role": "comedian",
+      "content": "our first date.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1433.55,
+      "end": 1435.35,
+      "role": "comedian",
+      "content": "I pull up at her house to pick her up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1435.35,
+      "end": 1441.8,
+      "role": "comedian",
+      "content": "She comes walking outside in a pair of high heels.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1441.8,
+      "end": 1442.84,
+      "role": "comedian",
+      "content": "She gets in the car.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1442.84,
+      "end": 1446.64,
+      "role": "comedian",
+      "content": "She wants me to take her to see a movie at the movie theater.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1446.64,
+      "end": 1449.8,
+      "role": "comedian",
+      "content": "We go pull up at the movie theater.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1449.8,
+      "end": 1451.72,
+      "role": "comedian",
+      "content": "I get out, I open her door,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1451.72,
+      "end": 1454.64,
+      "role": "comedian",
+      "content": "I grab her hand and we're holding hands",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1454.64,
+      "end": 1458.14,
+      "role": "comedian",
+      "content": "walking across the parking lot.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1458.14,
+      "end": 1459.54,
+      "role": "comedian",
+      "content": "As we're holding hands,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1459.54,
+      "end": 1461.82,
+      "role": "comedian",
+      "content": "we go to walk into the movie theater.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1462.7,
+      "end": 1467.02,
+      "role": "comedian",
+      "content": "But as we go to walk into the movie theater,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1467.02,
+      "end": 1473.55,
+      "role": "comedian",
+      "content": "I can see in the reflective glass",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1473.59,
+      "end": 1477.39,
+      "role": "comedian",
+      "content": "what looks to be a mother holding her child's hand.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1477.39,
+      "end": 1483.26,
+      "role": "comedian",
+      "content": "Is that what you wanna do?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1478.4,
+      "end": 1480.32,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1483.26,
+      "end": 1484.94,
+      "role": "comedian",
+      "content": "Oh, it's a popcorn too.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1484.94,
+      "end": 1492.52,
+      "role": "comedian",
+      "content": "Oh yeah.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1485.6,
+      "end": 1486.56,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1492.52,
+      "end": 1493.68,
+      "role": "comedian",
+      "content": "I was like, we're going back to the car",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1493.68,
+      "end": 1501.86,
+      "role": "comedian",
+      "content": "and I'm putting the damn heels on.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1501.86,
+      "end": 1504.54,
+      "role": "comedian",
+      "content": "Now at the beginning of the relationship",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1504.54,
+      "end": 1510.02,
+      "role": "comedian",
+      "content": "when she cared about my feelings,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1510.02,
+      "end": 1514.82,
+      "role": "comedian",
+      "content": "she would try her best to make me feel okay",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1514.82,
+      "end": 1517.3,
+      "role": "comedian",
+      "content": "about the whole height situation",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1517.3,
+      "end": 1521.06,
+      "role": "comedian",
+      "content": "because she knew I was self conscious about it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1521.06,
+      "end": 1532.83,
+      "role": "comedian",
+      "content": "So she would walk up to me and she'd be like,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1532.83,
+      "end": 1542.23,
+      "role": "comedian",
+      "content": "I don't care if you're shorter than me, just the way you are.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1542.23,
+      "end": 1547.9,
+      "role": "comedian",
+      "content": "But then as our relationship continued on",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1548.9,
+      "end": 1553.85,
+      "role": "comedian",
+      "content": "and she needed some ammo for her arguments,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1553.85,
+      "end": 1556.81,
+      "role": "comedian",
+      "content": "she weaponized the whole height thing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1558.33,
+      "end": 1561.55,
+      "role": "comedian",
+      "content": "Me and her would get into a verbal altercation.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1562.57,
+      "end": 1564.33,
+      "role": "comedian",
+      "content": "She would say something.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1564.33,
+      "end": 1567.33,
+      "role": "comedian",
+      "content": "Then I would try to say something back",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1567.33,
+      "end": 1569.09,
+      "role": "comedian",
+      "content": "and she'd go, huh, I hear something",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1569.09,
+      "end": 1582.27,
+      "role": "comedian",
+      "content": "but I don't see nobody.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1572.96,
+      "end": 1574.88,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1575.84,
+      "end": 1576.32,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1582.27,
+      "end": 1585.07,
+      "role": "comedian",
+      "content": "My wife's ex-boyfriend, the guy she dated before me",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1585.07,
+      "end": 1588.19,
+      "role": "comedian",
+      "content": "was six foot seven, 350 pounds.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1589.35,
+      "end": 1593.15,
+      "role": "comedian",
+      "content": "That's not a human, that's an ogre.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1593.15,
+      "end": 1596.86,
+      "role": "comedian",
+      "content": "That shrek is what that is.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1596.86,
+      "end": 1598.26,
+      "role": "comedian",
+      "content": "I asked her, I said, where'd you meet him?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1598.26,
+      "end": 1604.55,
+      "role": "comedian",
+      "content": "She said, down at the Dollar General.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1604.55,
+      "end": 1605.65,
+      "role": "comedian",
+      "content": "Oh, get it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1605.65,
+      "end": 1607.79,
+      "role": "comedian",
+      "content": "Women are infatuated with tall guys.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1607.79,
+      "end": 1609.91,
+      "role": "comedian",
+      "content": "What's so sexy about having to walk through a door",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1609.91,
+      "end": 1610.75,
+      "role": "comedian",
+      "content": "like this?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1610.75,
+      "end": 1616.86,
+      "role": "comedian",
+      "content": "Yeah, yeah, let me get it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1616.86,
+      "end": 1618.94,
+      "role": "comedian",
+      "content": "Chicks talking about, oh my gosh.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1619.86,
+      "end": 1621.74,
+      "role": "comedian",
+      "content": "I think it's so sexy when a man",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1621.74,
+      "end": 1624.1,
+      "role": "comedian",
+      "content": "can grab something off the top shelf.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1625.34,
+      "end": 1627.02,
+      "role": "comedian",
+      "content": "That ain't sexy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1627.02,
+      "end": 1628.54,
+      "role": "comedian",
+      "content": "I'll tell you what's sexy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1628.54,
+      "end": 1631.18,
+      "role": "comedian",
+      "content": "When a man can grab something off the bottom shelf",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1631.18,
+      "end": 1638.77,
+      "role": "comedian",
+      "content": "without bending down.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1632.96,
+      "end": 1633.44,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 1634.4,
+      "end": 1635.36,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1635.84,
+      "end": 1636.32,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1638.77,
+      "end": 1646.46,
+      "role": "comedian",
+      "content": "Does that turn you on right there?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1646.46,
+      "end": 1647.9,
+      "role": "comedian",
+      "content": "My wife's name is Leah.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1649.42,
+      "end": 1651.14,
+      "role": "comedian",
+      "content": "Me and Leah dated for two months",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1651.14,
+      "end": 1653.02,
+      "role": "comedian",
+      "content": "and then we decided to get married.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1654.02,
+      "end": 1661.34,
+      "role": "comedian",
+      "content": "Yes, we dated for two months and decided to get married",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1654.56,
+      "end": 1655.52,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1656.0,
+      "end": 1658.4,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1661.34,
+      "end": 1665.86,
+      "role": "comedian",
+      "content": "because we knew we were in love.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1666.78,
+      "end": 1676.3,
+      "role": "comedian",
+      "content": "Yes, it had nothing to do with me getting her pregnant.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1676.3,
+      "end": 1678.94,
+      "role": "comedian",
+      "content": "I'm gonna tell you what though, I found out",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1678.94,
+      "end": 1683.46,
+      "role": "comedian",
+      "content": "when you fall in love with somebody after only two months",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1683.46,
+      "end": 1685.5,
+      "role": "comedian",
+      "content": "and then you move in with them,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1685.5,
+      "end": 1687.5,
+      "role": "comedian",
+      "content": "all them little red hearts you were seeing",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1687.5,
+      "end": 1694.82,
+      "role": "comedian",
+      "content": "are actually little red flags.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1694.82,
+      "end": 1696.62,
+      "role": "comedian",
+      "content": "The night before our wedding,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1696.62,
+      "end": 1699.14,
+      "role": "comedian",
+      "content": "me and hers laying on the couch together,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1699.18,
+      "end": 1704.02,
+      "role": "comedian",
+      "content": "we're cuddling and we are watching the UFC,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1704.02,
+      "end": 1706.78,
+      "role": "comedian",
+      "content": "the ultimate fighting championship.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1706.78,
+      "end": 1709.98,
+      "role": "comedian",
+      "content": "That's where grown men getting their underwear",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1711.38,
+      "end": 1715.07,
+      "role": "comedian",
+      "content": "and they beat each other to death.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1715.07,
+      "end": 1718.75,
+      "role": "comedian",
+      "content": "So we're sitting there watching these two dudes",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1718.75,
+      "end": 1720.75,
+      "role": "comedian",
+      "content": "beat to crap at each other.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1720.75,
+      "end": 1728.26,
+      "role": "comedian",
+      "content": "And as we're watching, I can feel her shadow boxing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1728.26,
+      "end": 1731.78,
+      "role": "comedian",
+      "content": "All of a sudden she starts yelling at the TV",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1731.78,
+      "end": 1733.5,
+      "role": "comedian",
+      "content": "coaching the fighters.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1734.86,
+      "end": 1737.3,
+      "role": "comedian",
+      "content": "Oh, switch to unorthodox.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1737.3,
+      "end": 1742.14,
+      "role": "comedian",
+      "content": "Go for the single leg, transition to the arm bar.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1742.14,
+      "end": 1752.78,
+      "role": "comedian",
+      "content": "And I'm like, and she says, oh my gosh, baby,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1745.28,
+      "end": 1745.76,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1747.2,
+      "end": 1747.68,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1749.6,
+      "end": 1750.08,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1753.74,
+      "end": 1754.98,
+      "role": "comedian",
+      "content": "I forgot to tell you,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1756.34,
+      "end": 1762.67,
+      "role": "comedian",
+      "content": "I took Muay Thai and Jiu Jitsu for six years.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1762.67,
+      "end": 1770.05,
+      "role": "comedian",
+      "content": "That ain't to kind of shit you forget to tell somebody",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1770.05,
+      "end": 1775.22,
+      "role": "comedian",
+      "content": "that you are a human weapon.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1775.22,
+      "end": 1777.78,
+      "role": "comedian",
+      "content": "Fellas, put yourself in my position",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1777.82,
+      "end": 1779.66,
+      "role": "comedian",
+      "content": "the night before your wedding,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1779.66,
+      "end": 1787.77,
+      "role": "comedian",
+      "content": "you find out that you are marrying Chuck Effin Norris.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1787.77,
+      "end": 1791.09,
+      "role": "comedian",
+      "content": "Not only did she take Jiu Jitsu and Muay Thai for six years,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1792.17,
+      "end": 1798.74,
+      "role": "comedian",
+      "content": "she was also on a world ranked roller derby team.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1798.74,
+      "end": 1802.22,
+      "role": "comedian",
+      "content": "Not sure if you've ever seen roller derby before,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1802.22,
+      "end": 1805.08,
+      "role": "comedian",
+      "content": "but there ain't no dainty females.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1806.58,
+      "end": 1814.4,
+      "role": "comedian",
+      "content": "These are women with nicknames like Big Diesel.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1814.4,
+      "end": 1816.44,
+      "role": "comedian",
+      "content": "And it don't matter if they in a relationship",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1816.44,
+      "end": 1817.52,
+      "role": "comedian",
+      "content": "with a woman or a man,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1817.52,
+      "end": 1825.87,
+      "role": "comedian",
+      "content": "they are the man in that relationship.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1825.87,
+      "end": 1831.22,
+      "role": "comedian",
+      "content": "My son became inspired by this.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1831.22,
+      "end": 1833.58,
+      "role": "comedian",
+      "content": "So he decided he was gonna take Jiu Jitsu.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1834.58,
+      "end": 1837.7,
+      "role": "comedian",
+      "content": "He's been taking Jiu Jitsu now for four years.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1837.7,
+      "end": 1844.48,
+      "role": "comedian",
+      "content": "Yeah, I'm the only person in my house that can't fight.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1844.48,
+      "end": 1847.68,
+      "role": "comedian",
+      "content": "If somebody were to break into our home,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1847.68,
+      "end": 1851.16,
+      "role": "comedian",
+      "content": "I would not hesitate to push both of them",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1851.16,
+      "end": 1855.7,
+      "role": "comedian",
+      "content": "into the living room.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1853.28,
+      "end": 1854.72,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1855.7,
+      "end": 1867.06,
+      "role": "comedian",
+      "content": "I locked my door, go fight for daddy",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1857.6,
+      "end": 1858.08,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1867.06,
+      "end": 1870.34,
+      "role": "comedian",
+      "content": "because they might know Jiu Jitsu,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1870.34,
+      "end": 1881.58,
+      "role": "comedian",
+      "content": "but I know just shoot you.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1873.92,
+      "end": 1874.4,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1874.4,
+      "end": 1875.36,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 1875.36,
+      "end": 1876.32,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1877.76,
+      "end": 1881.12,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1881.58,
+      "end": 1882.42,
+      "role": "comedian",
+      "content": "That's right.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1883.42,
+      "end": 1885.5,
+      "role": "comedian",
+      "content": "My wife's got a third degree black belt,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1885.5,
+      "end": 1887.58,
+      "role": "comedian",
+      "content": "but I have a 12th gate shotgun.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1890.24,
+      "end": 1891.2,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 1894.13,
+      "end": 1896.09,
+      "role": "comedian",
+      "content": "They say opposites attract.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1896.97,
+      "end": 1899.37,
+      "role": "comedian",
+      "content": "I found out that that is really true",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1900.49,
+      "end": 1903.33,
+      "role": "comedian",
+      "content": "because me and her were polar opposites.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1904.33,
+      "end": 1906.29,
+      "role": "comedian",
+      "content": "My wife loves confrontation.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1907.49,
+      "end": 1908.61,
+      "role": "comedian",
+      "content": "She loves to argue.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1909.53,
+      "end": 1911.69,
+      "role": "comedian",
+      "content": "Now she don't go looking for it,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1911.69,
+      "end": 1914.05,
+      "role": "comedian",
+      "content": "but if somebody comes to her trying to fight or argue,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1914.05,
+      "end": 1920.89,
+      "role": "comedian",
+      "content": "it makes her loins moist.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1917.6,
+      "end": 1918.08,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 1920.89,
+      "end": 1926.16,
+      "role": "comedian",
+      "content": "She don't shy away from a good argument.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1926.16,
+      "end": 1928.36,
+      "role": "comedian",
+      "content": "I am non-confrontational.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1929.6,
+      "end": 1932.08,
+      "role": "comedian",
+      "content": "I love everybody.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1932.08,
+      "end": 1935.74,
+      "role": "comedian",
+      "content": "I wanna be friends with everybody.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1935.74,
+      "end": 1937.86,
+      "role": "comedian",
+      "content": "Oh, you have a nose on your face, me too.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1937.86,
+      "end": 1943.54,
+      "role": "comedian",
+      "content": "We're best friends.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1943.66,
+      "end": 1946.42,
+      "role": "comedian",
+      "content": "And it's gotten even worse with my wife",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1946.42,
+      "end": 1948.98,
+      "role": "comedian",
+      "content": "since she started going through menopause.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1950.42,
+      "end": 1951.98,
+      "role": "comedian",
+      "content": "You see, she went through some things,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1951.98,
+      "end": 1954.5,
+      "role": "comedian",
+      "content": "had to have the baby factory removed.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1954.5,
+      "end": 1958.7,
+      "role": "comedian",
+      "content": "And I truly believe that when the uterus leaves,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1958.7,
+      "end": 1968.12,
+      "role": "comedian",
+      "content": "Satan enters.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1968.12,
+      "end": 1969.96,
+      "role": "comedian",
+      "content": "It's got to the point where I'm scared",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1969.96,
+      "end": 1973.42,
+      "role": "comedian",
+      "content": "to take her out in the public",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1973.42,
+      "end": 1976.86,
+      "role": "comedian",
+      "content": "because I know that it's gonna take one time.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1977.74,
+      "end": 1979.54,
+      "role": "comedian",
+      "content": "For me to take her out in the public,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1979.54,
+      "end": 1983.22,
+      "role": "comedian",
+      "content": "if some guy is gonna look at her the wrong way,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1983.22,
+      "end": 1985.38,
+      "role": "comedian",
+      "content": "then she's gonna say something",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1985.38,
+      "end": 1996.42,
+      "role": "comedian",
+      "content": "and I'm gonna get beat up for it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 1996.42,
+      "end": 2000.7,
+      "role": "comedian",
+      "content": "Sometimes when me and hers laying in the bed together,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2000.7,
+      "end": 2003.7,
+      "role": "comedian",
+      "content": "me and my wife just laying there and she's asleep,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2003.7,
+      "end": 2012.44,
+      "role": "comedian",
+      "content": "I think about shaving her head bald.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2012.44,
+      "end": 2014.32,
+      "role": "comedian",
+      "content": "Ladies, y'all's hair affects us men",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2014.32,
+      "end": 2018.06,
+      "role": "comedian",
+      "content": "more than you will ever know in your life.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2018.06,
+      "end": 2021.02,
+      "role": "comedian",
+      "content": "Oh, right now I have probably lost a thousand hairs",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2021.02,
+      "end": 2022.1,
+      "role": "comedian",
+      "content": "off your head tonight.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2023.1,
+      "end": 2025.78,
+      "role": "comedian",
+      "content": "You all still have a head full of hair.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2026.82,
+      "end": 2033.98,
+      "role": "comedian",
+      "content": "I lost my hair one time.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2033.98,
+      "end": 2037.84,
+      "role": "comedian",
+      "content": "My never came back.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2037.84,
+      "end": 2039.8,
+      "role": "comedian",
+      "content": "Not y'all ladies, you lose one,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2039.8,
+      "end": 2045.72,
+      "role": "comedian",
+      "content": "you got 10 on standby.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2045.72,
+      "end": 2051.78,
+      "role": "comedian",
+      "content": "Find my wife's hair in places she's never been.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2051.78,
+      "end": 2056.78,
+      "role": "comedian",
+      "content": "One day I'm sitting on the couch, I'm watching football.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2058.02,
+      "end": 2059.58,
+      "role": "comedian",
+      "content": "As I'm watching football,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2059.58,
+      "end": 2061.58,
+      "role": "comedian",
+      "content": "I look across the living room floor",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2061.66,
+      "end": 2063.46,
+      "role": "comedian",
+      "content": "and I see a spider.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2065.06,
+      "end": 2066.1,
+      "role": "comedian",
+      "content": "He was a big one.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2067.18,
+      "end": 2068.78,
+      "role": "comedian",
+      "content": "I was like, why ain't he moving?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2068.8,
+      "end": 2069.28,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2069.78,
+      "end": 2073.5,
+      "role": "comedian",
+      "content": "So I walk over to investigate.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2073.5,
+      "end": 2074.34,
+      "role": "comedian",
+      "content": "I kick him.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2075.7,
+      "end": 2080.38,
+      "role": "comedian",
+      "content": "And when I kick him, I could see that he tried to run,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2080.38,
+      "end": 2084.42,
+      "role": "comedian",
+      "content": "but his legs was tied together with her hair.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2084.42,
+      "end": 2103.57,
+      "role": "comedian",
+      "content": "He is affecting the wildlife.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2090.88,
+      "end": 2091.84,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2100.0,
+      "end": 2100.96,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2103.57,
+      "end": 2106.25,
+      "role": "comedian",
+      "content": "The other day I look out the kitchen wonder.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2106.25,
+      "end": 2110.45,
+      "role": "comedian",
+      "content": "And when I look out, I see my dog dragging its butt.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2111.52,
+      "end": 2112.0,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2113.3,
+      "end": 2115.02,
+      "role": "comedian",
+      "content": "Herd hanging by one of her hairs.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2115.02,
+      "end": 2127.59,
+      "role": "comedian",
+      "content": "Just a little bit of that, I said,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2118.72,
+      "end": 2119.2,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2127.59,
+      "end": 2133.71,
+      "role": "comedian",
+      "content": "that's yours, you pulling it out.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2133.71,
+      "end": 2138.39,
+      "role": "comedian",
+      "content": "Sometimes I get home, I've been sweating, working hard.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2138.39,
+      "end": 2140.03,
+      "role": "comedian",
+      "content": "I just wanna get in the shower,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2141.23,
+      "end": 2146.23,
+      "role": "comedian",
+      "content": "get in the shower, start washing, turn around.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2146.35,
+      "end": 2152.67,
+      "role": "comedian",
+      "content": "She'd have wrote me a love note in heroglyphics.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2150.88,
+      "end": 2151.84,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2152.67,
+      "end": 2154.23,
+      "role": "comedian",
+      "content": "You just be washing, turn around,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2154.23,
+      "end": 2155.07,
+      "role": "comedian",
+      "content": "and I'm like, oh my,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2155.07,
+      "end": 2158.59,
+      "role": "comedian",
+      "content": "ah, ah.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2156.16,
+      "end": 2157.12,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2162.74,
+      "end": 2164.18,
+      "role": "comedian",
+      "content": "And she gets mad at me talking about,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2164.18,
+      "end": 2167.3,
+      "role": "comedian",
+      "content": "I did that, so I wouldn't clog the drain.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2167.3,
+      "end": 2168.14,
+      "role": "comedian",
+      "content": "Well, guess what?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2168.14,
+      "end": 2175.92,
+      "role": "comedian",
+      "content": "My throw-up did clog the drain.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2175.92,
+      "end": 2178.64,
+      "role": "comedian",
+      "content": "One night I'm laying in bed, I'm sleeping real good.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2179.72,
+      "end": 2183.36,
+      "role": "comedian",
+      "content": "And as I'm sleeping, I just, I go to move my leg.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2183.36,
+      "end": 2185.12,
+      "role": "comedian",
+      "content": "And when I move my leg,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2185.12,
+      "end": 2188.48,
+      "role": "comedian",
+      "content": "I can feel something just pulling my testicles with it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2188.48,
+      "end": 2197.2,
+      "role": "comedian",
+      "content": "Just run to the bathroom thinking,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2197.2,
+      "end": 2199.12,
+      "role": "comedian",
+      "content": "I have a medical emergency.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2212.18,
+      "end": 2216.02,
+      "role": "comedian",
+      "content": "I get in the bathroom, I yank my underwear down,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2216.02,
+      "end": 2223.81,
+      "role": "comedian",
+      "content": "and I see where I have one of her hairs lassoed",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2223.81,
+      "end": 2234.5,
+      "role": "comedian",
+      "content": "around both of my testicles.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2234.5,
+      "end": 2243.54,
+      "role": "comedian",
+      "content": "And I'm here to tell you, that stuff's 30 pound test.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2243.54,
+      "end": 2245.1,
+      "role": "comedian",
+      "content": "You will not break it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2246.42,
+      "end": 2253.34,
+      "role": "comedian",
+      "content": "She had my boy's hog tied, cutting off circulation.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2253.34,
+      "end": 2257.59,
+      "role": "comedian",
+      "content": "I said, I gotta get this undone, so I yanked it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2257.59,
+      "end": 2260.03,
+      "role": "comedian",
+      "content": "Yeah, I look like a puppeteer in my wiener,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2260.03,
+      "end": 2275.5,
+      "role": "comedian",
+      "content": "look like a puppet.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2275.5,
+      "end": 2278.14,
+      "role": "comedian",
+      "content": "When you've been together as long as we have,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2278.62,
+      "end": 2281.58,
+      "role": "comedian",
+      "content": "you have to find things to spice up your love life.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2282.7,
+      "end": 2285.1,
+      "role": "comedian",
+      "content": "Because at first, when you first get together,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2285.1,
+      "end": 2286.78,
+      "role": "comedian",
+      "content": "that's not a problem.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2286.78,
+      "end": 2288.18,
+      "role": "comedian",
+      "content": "Every time you walk by each other,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2288.18,
+      "end": 2291.06,
+      "role": "comedian",
+      "content": "you're da, da.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2291.06,
+      "end": 2296.06,
+      "role": "comedian",
+      "content": "Kissing, loving, you just wanna impress each other.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2296.1,
+      "end": 2302.1,
+      "role": "comedian",
+      "content": "Everything below the belt says smooth as a hardwood floor.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2302.1,
+      "end": 2304.14,
+      "role": "comedian",
+      "content": "Then your relationship continues on.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2305.06,
+      "end": 2306.36,
+      "role": "comedian",
+      "content": "Life happens.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2307.38,
+      "end": 2311.66,
+      "role": "comedian",
+      "content": "You neglect to trim the hedges.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2311.7,
+      "end": 2313.06,
+      "role": "comedian",
+      "content": "You're like, ah, they're gonna be with me",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2313.06,
+      "end": 2313.9,
+      "role": "comedian",
+      "content": "the rest of their life.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2313.9,
+      "end": 2314.9,
+      "role": "comedian",
+      "content": "I'll just bush it out.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2314.9,
+      "end": 2321.15,
+      "role": "comedian",
+      "content": "I don't care.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2321.15,
+      "end": 2322.23,
+      "role": "comedian",
+      "content": "Me and my wife have been going through",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2322.23,
+      "end": 2323.99,
+      "role": "comedian",
+      "content": "a little love-making drought,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2323.99,
+      "end": 2326.67,
+      "role": "comedian",
+      "content": "because I'd been working, she'd been working.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2326.67,
+      "end": 2331.15,
+      "role": "comedian",
+      "content": "We had a toddler who was into everything.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2331.15,
+      "end": 2332.63,
+      "role": "comedian",
+      "content": "We could get no privacy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2334.05,
+      "end": 2336.59,
+      "role": "comedian",
+      "content": "So one Friday night, I'm home, they're home,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2336.59,
+      "end": 2340.11,
+      "role": "comedian",
+      "content": "I'm thinking to myself, I gotta do something tonight.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2340.11,
+      "end": 2341.39,
+      "role": "comedian",
+      "content": "Light the flame.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2342.35,
+      "end": 2343.95,
+      "role": "comedian",
+      "content": "So I figure I'll go in the shower,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2343.95,
+      "end": 2345.99,
+      "role": "comedian",
+      "content": "I'll shave my man parts.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2346.69,
+      "end": 2355.38,
+      "role": "comedian",
+      "content": "She'll walk into the bedroom and I'll stand there.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2355.38,
+      "end": 2360.84,
+      "role": "comedian",
+      "content": "Be looking all aerodynamic.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2360.84,
+      "end": 2363.68,
+      "role": "comedian",
+      "content": "She won't be able to resist and we'll be making babies.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2365.0,
+      "end": 2366.16,
+      "role": "comedian",
+      "content": "That was the plan.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2367.2,
+      "end": 2368.92,
+      "role": "comedian",
+      "content": "[CALLBACK#1] Now, like I said, I had a three-year-old",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2368.92,
+      "end": 2370.76,
+      "role": "comedian",
+      "content": "who was into absolutely everything,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2370.76,
+      "end": 2372.2,
+      "role": "comedian",
+      "content": "but they're watching TV.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2372.2,
+      "end": 2374.68,
+      "role": "comedian",
+      "content": "So I'm like, I'm going to get in the shower.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2374.68,
+      "end": 2376.16,
+      "role": "comedian",
+      "content": "I get in that shower,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2376.16,
+      "end": 2379.92,
+      "role": "comedian",
+      "content": "I got a clear see-through glass door on my shower.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2379.92,
+      "end": 2381.96,
+      "role": "comedian",
+      "content": "So I'm shaving and I'm like, ah,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2381.96,
+      "end": 2384.44,
+      "role": "comedian",
+      "content": "you know, if I'm gonna shave the top,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2384.44,
+      "end": 2385.64,
+      "role": "comedian",
+      "content": "you gotta get the bottom.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2387.32,
+      "end": 2391.08,
+      "role": "comedian",
+      "content": "You don't wanna go tee.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2391.08,
+      "end": 2410.47,
+      "role": "comedian",
+      "content": "So in order to do that, I throw my leg up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2400.48,
+      "end": 2401.44,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2403.84,
+      "end": 2404.8,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 2406.72,
+      "end": 2407.2,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2406.72,
+      "end": 2407.2,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 2408.16,
+      "end": 2409.6,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2410.47,
+      "end": 2418.56,
+      "role": "comedian",
+      "content": "If you can see my testicles, I apologize.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2418.56,
+      "end": 2420.88,
+      "role": "comedian",
+      "content": "So I'm doing my thing, I'm shaving.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2420.88,
+      "end": 2423.2,
+      "role": "comedian",
+      "content": "And I get down to what you would anatomically call",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2423.2,
+      "end": 2427.38,
+      "role": "comedian",
+      "content": "the taint.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2427.38,
+      "end": 2429.06,
+      "role": "comedian",
+      "content": "And as I'm looking down, shaving,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2429.06,
+      "end": 2431.46,
+      "role": "comedian",
+      "content": "I hear something hit my shower door.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2431.46,
+      "end": 2440.05,
+      "role": "comedian",
+      "content": "I look over and see a face planted in my shower door.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2440.05,
+      "end": 2446.03,
+      "role": "comedian",
+      "content": "So I freak out, go fuck!",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2446.03,
+      "end": 2452.02,
+      "role": "comedian",
+      "content": "Gave myself the old redneck vasectomy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2452.02,
+      "end": 2454.18,
+      "role": "comedian",
+      "content": "Now I'm mad because my plan got ruined",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2454.18,
+      "end": 2460.02,
+      "role": "comedian",
+      "content": "by a three-year-old terrorist.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2460.02,
+      "end": 2465.66,
+      "role": "comedian",
+      "content": "So the next day, I'm walking through the house,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2465.66,
+      "end": 2469.74,
+      "role": "comedian",
+      "content": "trying not to let my meats touch.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2469.74,
+      "end": 2471.98,
+      "role": "comedian",
+      "content": "And as I'm walking through, my wife is in the kitchen.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2471.98,
+      "end": 2476.44,
+      "role": "comedian",
+      "content": "She looks at me and starts laughing at me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2476.44,
+      "end": 2477.84,
+      "role": "comedian",
+      "content": "So that makes me even more mad.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2477.84,
+      "end": 2480.36,
+      "role": "comedian",
+      "content": "And I'm like, I will never shave again.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2481.4,
+      "end": 2485.8,
+      "role": "comedian",
+      "content": "And she looked at me and said, me neither.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2485.8,
+      "end": 2497.23,
+      "role": "comedian",
+      "content": "So now when we make love, it starts a brush fire.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2491.2,
+      "end": 2491.68,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2497.23,
+      "end": 2498.75,
+      "role": "comedian",
+      "content": "I pick on her about it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2498.75,
+      "end": 2500.43,
+      "role": "comedian",
+      "content": "I do, I have to.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2500.43,
+      "end": 2502.03,
+      "role": "comedian",
+      "content": "I walk through and she'll be getting dressed,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2502.03,
+      "end": 2502.87,
+      "role": "comedian",
+      "content": "won't have nothing on.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2502.87,
+      "end": 2504.95,
+      "role": "comedian",
+      "content": "I'll look at her and say, say, so.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2506.67,
+      "end": 2508.59,
+      "role": "comedian",
+      "content": "How's my little wookie doing today?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2510.88,
+      "end": 2511.84,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2513.65,
+      "end": 2515.53,
+      "role": "comedian",
+      "content": "I come in the house one day",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2515.53,
+      "end": 2518.53,
+      "role": "comedian",
+      "content": "and I could tell immediately when I walked in,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2518.53,
+      "end": 2521.92,
+      "role": "comedian",
+      "content": "she wanted me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2521.92,
+      "end": 2524.04,
+      "role": "comedian",
+      "content": "She had a twinkle in her eye.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2524.04,
+      "end": 2525.8,
+      "role": "comedian",
+      "content": "I could smell her pheromones.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2527.04,
+      "end": 2530.28,
+      "role": "comedian",
+      "content": "Ladies, by the way, us men know when you want us.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2530.28,
+      "end": 2534.54,
+      "role": "comedian",
+      "content": "We think it's all the time.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2534.54,
+      "end": 2536.78,
+      "role": "comedian",
+      "content": "But when I walk in the house and I could just see it,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2536.78,
+      "end": 2538.3,
+      "role": "comedian",
+      "content": "I could feel it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2538.3,
+      "end": 2539.86,
+      "role": "comedian",
+      "content": "Eight o'clock that night,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2539.86,
+      "end": 2544.62,
+      "role": "comedian",
+      "content": "she gives my son two melatonins,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2544.62,
+      "end": 2550.46,
+      "role": "comedian",
+      "content": "puts them in the bed, locks his door from the outside.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2550.46,
+      "end": 2551.3,
+      "role": "comedian",
+      "content": "I'm watching TV.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2551.3,
+      "end": 2553.34,
+      "role": "comedian",
+      "content": "She grabs my arm, pulls me into the bedroom",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2553.34,
+      "end": 2559.5,
+      "role": "comedian",
+      "content": "and throws me onto the bed, rips her underwear off.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2559.5,
+      "end": 2568.29,
+      "role": "comedian",
+      "content": "Sounded like a car's airbag in a front-end collision.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2563.2,
+      "end": 2563.68,
+      "role": "audience",
+      "content": "[cheering]",
+      "reaction_type": "cheering"
+    },
+    {
+      "start": 2568.29,
+      "end": 2571.29,
+      "role": "comedian",
+      "content": "She says, you wanna make love to me tonight?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2568.96,
+      "end": 2569.44,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2572.33,
+      "end": 2573.77,
+      "role": "comedian",
+      "content": "I looked at her and I said,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2573.77,
+      "end": 2574.61,
+      "role": "comedian",
+      "content": "whoo.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2576.16,
+      "end": 2578.08,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2578.56,
+      "end": 2579.52,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2585.26,
+      "end": 2586.3,
+      "role": "comedian",
+      "content": "Then I walked to the couch",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2586.3,
+      "end": 2597.11,
+      "role": "comedian",
+      "content": "where I slept for the rest of the night.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2597.11,
+      "end": 2601.27,
+      "role": "comedian",
+      "content": "When my wife was pregnant with my son,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2601.27,
+      "end": 2605.15,
+      "role": "comedian",
+      "content": "all I could think is I want two.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2605.15,
+      "end": 2606.95,
+      "role": "comedian",
+      "content": "I want two kids.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2606.95,
+      "end": 2611.39,
+      "role": "comedian",
+      "content": "But then we had my son, we went to the timer stage",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2611.39,
+      "end": 2616.39,
+      "role": "comedian",
+      "content": "and I was like, I don't want a kid anymore.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2617.92,
+      "end": 2618.4,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2620.47,
+      "end": 2628.95,
+      "role": "comedian",
+      "content": "Because toddlers are absolute psychopaths",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2629.03,
+      "end": 2633.37,
+      "role": "comedian",
+      "content": "and they love doing exactly what you tell them not to do.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2634.87,
+      "end": 2637.35,
+      "role": "comedian",
+      "content": "My son thought it was a little game.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2637.35,
+      "end": 2642.35,
+      "role": "comedian",
+      "content": "I tell him not to do something, he just smile and do it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2642.59,
+      "end": 2646.59,
+      "role": "comedian",
+      "content": "At first it's cute, but it gets old really quick.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2647.43,
+      "end": 2649.99,
+      "role": "comedian",
+      "content": "Me and him was out in my garden one day,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2649.99,
+      "end": 2652.59,
+      "role": "comedian",
+      "content": "having an electric fence around that garden.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2652.59,
+      "end": 2653.91,
+      "role": "comedian",
+      "content": "And I've watched that electric fence",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2653.91,
+      "end": 2657.51,
+      "role": "comedian",
+      "content": "put a deer on its back before.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2657.55,
+      "end": 2659.07,
+      "role": "comedian",
+      "content": "And we out there, I look over",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2659.07,
+      "end": 2663.27,
+      "role": "comedian",
+      "content": "and I see him going to grab that electric fence.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2664.59,
+      "end": 2666.19,
+      "role": "comedian",
+      "content": "And I was like, all right.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2666.19,
+      "end": 2669.07,
+      "role": "comedian",
+      "content": "Do I run over and grab his hand and pull it down?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2669.07,
+      "end": 2670.15,
+      "role": "comedian",
+      "content": "Or do I scream, no!",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2671.47,
+      "end": 2675.86,
+      "role": "comedian",
+      "content": "And let him learn a very valuable life lesson.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2675.86,
+      "end": 2678.22,
+      "role": "comedian",
+      "content": "So I look over and I say, no son!",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2679.82,
+      "end": 2692.2,
+      "role": "comedian",
+      "content": "And I'm thinking, do it you dick, do it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2685.6,
+      "end": 2686.08,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2686.56,
+      "end": 2688.96,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2689.92,
+      "end": 2691.36,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2692.2,
+      "end": 2695.32,
+      "role": "comedian",
+      "content": "He just smiled and grabbed that fence.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2696.28,
+      "end": 2698.88,
+      "role": "comedian",
+      "content": "And I don't know if any of you have ever seen",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2698.88,
+      "end": 2707.88,
+      "role": "comedian",
+      "content": "a small child get launched into orbit,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2710.29,
+      "end": 2718.7,
+      "role": "comedian",
+      "content": "but that shit's hilarious.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2712.96,
+      "end": 2713.44,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2718.7,
+      "end": 2721.46,
+      "role": "comedian",
+      "content": "I got him a BB gun for his fourth birthday.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2722.54,
+      "end": 2724.26,
+      "role": "comedian",
+      "content": "Got him a BB gun.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2724.26,
+      "end": 2726.42,
+      "role": "comedian",
+      "content": "And on the day that I decided to teach him how to use it,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2726.42,
+      "end": 2731.07,
+      "role": "comedian",
+      "content": "I was intoxicated.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2731.07,
+      "end": 2733.15,
+      "role": "comedian",
+      "content": "I walk outside, I'm like, all right, boy,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2733.15,
+      "end": 2735.43,
+      "role": "comedian",
+      "content": "daddy's gonna teach you something today.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2735.43,
+      "end": 2736.95,
+      "role": "comedian",
+      "content": "So I got two cans.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2736.95,
+      "end": 2739.47,
+      "role": "comedian",
+      "content": "I put them cans up against the oak tree.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2739.47,
+      "end": 2741.59,
+      "role": "comedian",
+      "content": "Oak tree's behind the cans.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2741.59,
+      "end": 2743.91,
+      "role": "comedian",
+      "content": "Me and him, we get back here about 10 yards.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2743.91,
+      "end": 2746.91,
+      "role": "comedian",
+      "content": "The house is directly behind us.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2747.95,
+      "end": 2750.91,
+      "role": "comedian",
+      "content": "I'm like, all right, you just watch daddy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2750.91,
+      "end": 2752.87,
+      "role": "comedian",
+      "content": "I pull the gun up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2752.87,
+      "end": 2754.15,
+      "role": "comedian",
+      "content": "I aim.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2754.15,
+      "end": 2756.75,
+      "role": "comedian",
+      "content": "I pull the trigger, play out.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2756.75,
+      "end": 2759.31,
+      "role": "comedian",
+      "content": "The BB leaves the barrel at a high velocity",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2759.31,
+      "end": 2761.27,
+      "role": "comedian",
+      "content": "and misses the cans.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2761.27,
+      "end": 2764.71,
+      "role": "comedian",
+      "content": "It hits the tree,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2764.71,
+      "end": 2769.06,
+      "role": "comedian",
+      "content": "comes back at an even higher velocity,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2769.06,
+      "end": 2771.54,
+      "role": "comedian",
+      "content": "goes through the window of the house",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2771.54,
+      "end": 2782.29,
+      "role": "comedian",
+      "content": "and hits my wife on the ass washing dishes.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2782.29,
+      "end": 2784.29,
+      "role": "comedian",
+      "content": "So me being the quick thinker I am,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2784.29,
+      "end": 2791.0,
+      "role": "comedian",
+      "content": "I took the gun and shoved it into my son's hands.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2791.0,
+      "end": 2792.8,
+      "role": "comedian",
+      "content": "And I grabbed a rake and started raking.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2792.8,
+      "end": 2802.34,
+      "role": "comedian",
+      "content": "I ain't seeing nothing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2802.34,
+      "end": 2803.9,
+      "role": "comedian",
+      "content": "I hear that door slam open.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2803.9,
+      "end": 2805.62,
+      "role": "comedian",
+      "content": "I see my wife step out and she says,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2805.62,
+      "end": 2807.54,
+      "role": "comedian",
+      "content": "I'm gonna kill you.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2807.54,
+      "end": 2811.98,
+      "role": "comedian",
+      "content": "My son's just holding the gun like,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2811.98,
+      "end": 2814.26,
+      "role": "comedian",
+      "content": "she runs up, she snatches him up",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2814.26,
+      "end": 2820.83,
+      "role": "comedian",
+      "content": "and she starts beating him.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2820.83,
+      "end": 2827.66,
+      "role": "comedian",
+      "content": "I look over there and I can see her beating him.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2827.66,
+      "end": 2831.99,
+      "role": "comedian",
+      "content": "And I can see him screaming and crying.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2829.12,
+      "end": 2829.6,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2831.99,
+      "end": 2836.99,
+      "role": "comedian",
+      "content": "And all I could think was thank you for your sacrifice, son.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2837.76,
+      "end": 2841.6,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2842.56,
+      "end": 2844.48,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2852.65,
+      "end": 2854.53,
+      "role": "comedian",
+      "content": "After his mama went in, you know, I walked over.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2854.53,
+      "end": 2855.61,
+      "role": "comedian",
+      "content": "He's just, he's crying.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2855.61,
+      "end": 2861.62,
+      "role": "comedian",
+      "content": "I said, I hope you learned your lesson today son.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2861.62,
+      "end": 2872.29,
+      "role": "comedian",
+      "content": "You never trust anybody boy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2872.29,
+      "end": 2873.61,
+      "role": "comedian",
+      "content": "She loves candles.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2874.65,
+      "end": 2876.05,
+      "role": "comedian",
+      "content": "My wife loves candles.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2876.97,
+      "end": 2878.73,
+      "role": "comedian",
+      "content": "So to be a good husband, I got a line.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2878.73,
+      "end": 2882.01,
+      "role": "comedian",
+      "content": "I was gonna buy her some fancy candles that she'd never had.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2883.21,
+      "end": 2885.13,
+      "role": "comedian",
+      "content": "So I'm cruising through the internet.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2885.13,
+      "end": 2888.81,
+      "role": "comedian",
+      "content": "As I'm looking around, an article pops up.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2888.81,
+      "end": 2890.29,
+      "role": "comedian",
+      "content": "This is all true.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2890.29,
+      "end": 2892.49,
+      "role": "comedian",
+      "content": "An article pops up about a lady",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2892.49,
+      "end": 2896.82,
+      "role": "comedian",
+      "content": "by the name of Gwyneth Paltrow.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2896.82,
+      "end": 2900.94,
+      "role": "comedian",
+      "content": "Gwyneth Paltrow created her own line of candles",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2900.94,
+      "end": 2902.86,
+      "role": "comedian",
+      "content": "for a charity event.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2902.86,
+      "end": 2906.5,
+      "role": "comedian",
+      "content": "They were bodily scented candles.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2906.5,
+      "end": 2910.98,
+      "role": "comedian",
+      "content": "She sold these candles for $75 a piece.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2910.98,
+      "end": 2915.82,
+      "role": "comedian",
+      "content": "5,000 candles sold out in 24 hours.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2917.14,
+      "end": 2919.78,
+      "role": "comedian",
+      "content": "And every single one of those candles",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2919.78,
+      "end": 2923.22,
+      "role": "comedian",
+      "content": "were scented like her vagina.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2926.45,
+      "end": 2941.62,
+      "role": "comedian",
+      "content": "Oh, I'm talking cooter candles.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2941.62,
+      "end": 2945.18,
+      "role": "comedian",
+      "content": "There ain't never been one time in my life",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2946.78,
+      "end": 2951.78,
+      "role": "comedian",
+      "content": "where I have been going down there.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2952.96,
+      "end": 2953.44,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 2953.85,
+      "end": 2959.82,
+      "role": "comedian",
+      "content": "On a woman and thought to myself,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2959.82,
+      "end": 2962.1,
+      "role": "comedian",
+      "content": "this'll be a good smell in the kitchen.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2964.48,
+      "end": 2970.24,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 2978.26,
+      "end": 2983.9,
+      "role": "comedian",
+      "content": "I imagine walking into somebody's house.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2983.9,
+      "end": 2985.18,
+      "role": "comedian",
+      "content": "You're like, oh, we're just here to eat.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2985.18,
+      "end": 2992.38,
+      "role": "comedian",
+      "content": "What in the hell is that?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2992.38,
+      "end": 2993.46,
+      "role": "comedian",
+      "content": "Tell them what you cooking Bill.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2993.46,
+      "end": 2999.98,
+      "role": "comedian",
+      "content": "That's my cooter candle on the table.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 2999.98,
+      "end": 3001.62,
+      "role": "comedian",
+      "content": "It did give me an idea though.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3002.9,
+      "end": 3005.9,
+      "role": "comedian",
+      "content": "What if I were to come out with my own line",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3007.42,
+      "end": 3008.98,
+      "role": "comedian",
+      "content": "of bodily scented candles?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3010.22,
+      "end": 3016.23,
+      "role": "comedian",
+      "content": "You walk into a Yankee candle company.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3016.27,
+      "end": 3017.31,
+      "role": "comedian",
+      "content": "You pick up a candle.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3017.31,
+      "end": 3018.95,
+      "role": "comedian",
+      "content": "Ah, a ginger billy candle.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3018.72,
+      "end": 3019.2,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3019.87,
+      "end": 3020.71,
+      "role": "comedian",
+      "content": "What is that?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3020.71,
+      "end": 3021.79,
+      "role": "comedian",
+      "content": "Runner's taint.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3021.79,
+      "end": 3033.56,
+      "role": "comedian",
+      "content": "Huh, no, nope.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3033.56,
+      "end": 3039.11,
+      "role": "comedian",
+      "content": "That's the one you put outside",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3034.56,
+      "end": 3035.04,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3039.11,
+      "end": 3048.75,
+      "role": "comedian",
+      "content": "to keep the skeeters away.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3040.8,
+      "end": 3041.28,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3048.75,
+      "end": 3053.75,
+      "role": "comedian",
+      "content": "The worst mistake I have ever made as a parent",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3053.95,
+      "end": 3057.59,
+      "role": "comedian",
+      "content": "would have to be taking my son to Disney World.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3059.35,
+      "end": 3062.52,
+      "role": "comedian",
+      "content": "That's not a vacation.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3062.52,
+      "end": 3066.64,
+      "role": "comedian",
+      "content": "You get there, you see thousands",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3066.64,
+      "end": 3077.69,
+      "role": "comedian",
+      "content": "of mentally unstable parents just having many strokes.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3071.52,
+      "end": 3072.0,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3077.89,
+      "end": 3081.01,
+      "role": "comedian",
+      "content": "Either can't find their kids or they're cussing at their kids.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3082.9,
+      "end": 3085.1,
+      "role": "comedian",
+      "content": "My son loved Mickey Mouse,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3085.1,
+      "end": 3087.5,
+      "role": "comedian",
+      "content": "so we thought we'll take our four-year-old baby",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3087.5,
+      "end": 3091.02,
+      "role": "comedian",
+      "content": "to Disney World playing that trip out.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3091.02,
+      "end": 3094.58,
+      "role": "comedian",
+      "content": "We got one of them friends who's a Disney World fanatic.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3094.58,
+      "end": 3096.58,
+      "role": "comedian",
+      "content": "Goes five or six times a year.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3096.58,
+      "end": 3100.38,
+      "role": "comedian",
+      "content": "We all know one of those weirdos.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3100.38,
+      "end": 3104.82,
+      "role": "comedian",
+      "content": "So when we booked a trip, she's like, oh my gosh,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3104.86,
+      "end": 3109.5,
+      "role": "comedian",
+      "content": "it's magical, it's so magical.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3106.08,
+      "end": 3106.56,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3109.5,
+      "end": 3111.18,
+      "role": "comedian",
+      "content": "If you watch the Disney World commercials,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3111.18,
+      "end": 3113.9,
+      "role": "comedian",
+      "content": "they make it look magical.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3113.9,
+      "end": 3115.18,
+      "role": "comedian",
+      "content": "And when you get there,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3115.18,
+      "end": 3119.9,
+      "role": "comedian",
+      "content": "you find out that it truly is magical.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3120.82,
+      "end": 3125.82,
+      "role": "comedian",
+      "content": "Because when you and your child walk under",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3125.94,
+      "end": 3128.26,
+      "role": "comedian",
+      "content": "that Disney World son,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3129.26,
+      "end": 3134.26,
+      "role": "comedian",
+      "content": "your child magically becomes the biggest dick",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3134.26,
+      "end": 3140.48,
+      "role": "comedian",
+      "content": "you've ever met.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3140.48,
+      "end": 3141.48,
+      "role": "comedian",
+      "content": "I don't know what it is",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3141.48,
+      "end": 3145.98,
+      "role": "comedian",
+      "content": "that turns all them little kids into a-holes.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3145.98,
+      "end": 3147.66,
+      "role": "comedian",
+      "content": "I think it's got something to do with the heat",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3147.66,
+      "end": 3150.94,
+      "role": "comedian",
+      "content": "and the humidity,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3150.94,
+      "end": 3153.14,
+      "role": "comedian",
+      "content": "because Disney World is located",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3153.14,
+      "end": 3156.58,
+      "role": "comedian",
+      "content": "in a place called Orlando, Florida,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3157.5,
+      "end": 3167.26,
+      "role": "comedian",
+      "content": "also known as the Devil's Butthole.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3167.26,
+      "end": 3170.9,
+      "role": "comedian",
+      "content": "My wife, being the genius she is,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3170.9,
+      "end": 3172.86,
+      "role": "comedian",
+      "content": "decided to book our trip to Disney World",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3172.86,
+      "end": 3179.02,
+      "role": "comedian",
+      "content": "for seven days in July.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3179.02,
+      "end": 3180.52,
+      "role": "comedian",
+      "content": "When she booked that trip,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3180.56,
+      "end": 3184.72,
+      "role": "comedian",
+      "content": "Disney World sent us a brochure and said,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3184.72,
+      "end": 3189.52,
+      "role": "comedian",
+      "content": "we hope you have a magical Disney experience.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3189.52,
+      "end": 3191.76,
+      "role": "comedian",
+      "content": "I had the Disney experience.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3191.76,
+      "end": 3195.28,
+      "role": "comedian",
+      "content": "I experienced anxiety and swamp ass for seven days.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3198.54,
+      "end": 3201.22,
+      "role": "comedian",
+      "content": "I had the worst case of Niagara balls",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3201.22,
+      "end": 3206.14,
+      "role": "comedian",
+      "content": "you have ever seen on a man.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3206.14,
+      "end": 3213.4,
+      "role": "comedian",
+      "content": "Every woman walking around with humidities",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3213.4,
+      "end": 3222.82,
+      "role": "comedian",
+      "content": "went through three bottles of gold bond.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3222.82,
+      "end": 3234.64,
+      "role": "comedian",
+      "content": "My testicles looked like powdered doughnuts.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3234.64,
+      "end": 3240.48,
+      "role": "comedian",
+      "content": "Hope you got a mental picture of that in your head.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3240.48,
+      "end": 3243.67,
+      "role": "comedian",
+      "content": "It's miserable.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3243.67,
+      "end": 3246.29,
+      "role": "comedian",
+      "content": "My wife knows I'm an animal lover.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3246.29,
+      "end": 3248.17,
+      "role": "comedian",
+      "content": "So first day she booked our trip",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3248.17,
+      "end": 3250.49,
+      "role": "comedian",
+      "content": "to a place called the Animal Kingdom.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3252.01,
+      "end": 3254.69,
+      "role": "comedian",
+      "content": "I thought it was gonna be one big petting zoo.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3256.33,
+      "end": 3258.33,
+      "role": "comedian",
+      "content": "We walked through the gates of the Animal Kingdom",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3258.33,
+      "end": 3260.77,
+      "role": "comedian",
+      "content": "and the first thing you see",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3260.77,
+      "end": 3262.45,
+      "role": "comedian",
+      "content": "when you walk through the gates",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3262.45,
+      "end": 3266.33,
+      "role": "comedian",
+      "content": "is this big, huge mountain",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3266.33,
+      "end": 3270.53,
+      "role": "comedian",
+      "content": "with a roller coaster sticking out of the top of it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3270.53,
+      "end": 3271.93,
+      "role": "comedian",
+      "content": "My wife gets all excited.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3271.93,
+      "end": 3273.33,
+      "role": "comedian",
+      "content": "She's like, oh my gosh, baby.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3274.37,
+      "end": 3276.05,
+      "role": "comedian",
+      "content": "That's expedition Everest.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3276.05,
+      "end": 3278.29,
+      "role": "comedian",
+      "content": "That's the first ride we get to ride today.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3279.97,
+      "end": 3281.85,
+      "role": "comedian",
+      "content": "Little secret for everybody.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3281.85,
+      "end": 3289.94,
+      "role": "comedian",
+      "content": "I am terrified of roller coasters.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3289.94,
+      "end": 3293.5,
+      "role": "comedian",
+      "content": "Knows this.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3293.5,
+      "end": 3298.5,
+      "role": "comedian",
+      "content": "She can tell by the look on my face I'm terrified.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3298.74,
+      "end": 3301.86,
+      "role": "comedian",
+      "content": "So she looks at me in front of everybody in line",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3301.86,
+      "end": 3310.96,
+      "role": "comedian",
+      "content": "and she says, hey Puss, this is a child's roller coaster",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3306.72,
+      "end": 3307.2,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3313.53,
+      "end": 3320.0,
+      "role": "comedian",
+      "content": "and I trusted her because number one, she is my wife",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3322.64,
+      "end": 3330.43,
+      "role": "comedian",
+      "content": "and number two, I am a moron.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3330.43,
+      "end": 3332.39,
+      "role": "comedian",
+      "content": "Now as we're sitting in line",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3332.39,
+      "end": 3335.71,
+      "role": "comedian",
+      "content": "waiting for this child's roller coaster,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3335.71,
+      "end": 3339.47,
+      "role": "comedian",
+      "content": "I'm thinking to myself, all right, if we get up here",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3339.47,
+      "end": 3343.96,
+      "role": "comedian",
+      "content": "and this is a big boy roller coaster,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3343.96,
+      "end": 3348.72,
+      "role": "comedian",
+      "content": "we'll use my four-year-old son as my scapegoat.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3350.4,
+      "end": 3354.6,
+      "role": "comedian",
+      "content": "I'm like, excuse me, this child is not tall enough to ride",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3355.64,
+      "end": 3357.04,
+      "role": "comedian",
+      "content": "and that'll get me out of there",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3357.04,
+      "end": 3363.03,
+      "role": "comedian",
+      "content": "without me looking like a vagina.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3360.48,
+      "end": 3360.96,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3361.44,
+      "end": 3361.92,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3363.03,
+      "end": 3364.99,
+      "role": "comedian",
+      "content": "But what I failed to realize is",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3364.99,
+      "end": 3368.43,
+      "role": "comedian",
+      "content": "I had a very tall four-year-old.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3369.99,
+      "end": 3372.51,
+      "role": "comedian",
+      "content": "So he meets the height requirement.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3372.51,
+      "end": 3373.67,
+      "role": "comedian",
+      "content": "Now he's super pumped.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3373.67,
+      "end": 3376.35,
+      "role": "comedian",
+      "content": "He's going, oh my gosh, Daddy, can I ride on the front?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3376.35,
+      "end": 3382.68,
+      "role": "comedian",
+      "content": "Let's ride on the front.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3382.68,
+      "end": 3387.68,
+      "role": "comedian",
+      "content": "So me and him get on the front and Satan sits behind us.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3390.72,
+      "end": 3391.2,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3394.83,
+      "end": 3395.79,
+      "role": "comedian",
+      "content": "Now as we're sitting there waiting",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3395.79,
+      "end": 3397.07,
+      "role": "comedian",
+      "content": "for this roller coaster to take off,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3397.07,
+      "end": 3400.15,
+      "role": "comedian",
+      "content": "[CALLBACK#2] I'm like, you know what, let me, I'm gonna do some research.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3400.15,
+      "end": 3401.99,
+      "role": "comedian",
+      "content": "I'm gonna Google it.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3401.99,
+      "end": 3403.45,
+      "role": "comedian",
+      "content": "See what this thing's about.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3403.45,
+      "end": 3404.67,
+      "role": "comedian",
+      "content": "Prepare myself.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3404.67,
+      "end": 3408.07,
+      "role": "comedian",
+      "content": "So I Google the words expedition Everest roller coaster.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3408.07,
+      "end": 3411.55,
+      "role": "comedian",
+      "content": "First words to pop up are tallest wooden roller coaster",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3411.55,
+      "end": 3413.37,
+      "role": "comedian",
+      "content": "at Disney World.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3413.37,
+      "end": 3415.17,
+      "role": "comedian",
+      "content": "Now I'm in a panic.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3415.17,
+      "end": 3420.49,
+      "role": "comedian",
+      "content": "They got the bar on my lap, so I'm waving,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3419.04,
+      "end": 3419.52,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3420.49,
+      "end": 3423.49,
+      "role": "comedian",
+      "content": "trying to get the operator to get me off the ride.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3424.49,
+      "end": 3441.55,
+      "role": "comedian",
+      "content": "And he goes, oh, in my panic, I managed to drop my cell phone.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3441.71,
+      "end": 3444.39,
+      "role": "comedian",
+      "content": "As I'm looking down, trying to pick up my cell phone,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3445.59,
+      "end": 3447.47,
+      "role": "comedian",
+      "content": "I feel the roller coaster tilt upward",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3447.47,
+      "end": 3451.19,
+      "role": "comedian",
+      "content": "in a vertical fashion.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3451.19,
+      "end": 3454.23,
+      "role": "comedian",
+      "content": "And I feel tick, tick.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3455.23,
+      "end": 3460.23,
+      "role": "comedian",
+      "content": "And I look up to see a hill going straight to Jesus.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3461.31,
+      "end": 3479.49,
+      "role": "comedian",
+      "content": "Son looks at me and he goes, mama, lie, daddy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3462.24,
+      "end": 3462.72,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3463.68,
+      "end": 3464.64,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3479.49,
+      "end": 3482.21,
+      "role": "comedian",
+      "content": "It is at this time that my son learned",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3482.21,
+      "end": 3484.41,
+      "role": "comedian",
+      "content": "a very valuable lesson.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3484.41,
+      "end": 3490.06,
+      "role": "comedian",
+      "content": "And that is that women lie.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3490.06,
+      "end": 3493.7,
+      "role": "comedian",
+      "content": "We keep creeping up at hill, man, just tick, tick.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3494.94,
+      "end": 3499.91,
+      "role": "comedian",
+      "content": "My son looks at me again and he goes, hey, daddy,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3499.91,
+      "end": 3505.54,
+      "role": "comedian",
+      "content": "I don't like mama no more.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3505.58,
+      "end": 3513.16,
+      "role": "comedian",
+      "content": "I said, yes son, mama's an asshole for this one.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3513.16,
+      "end": 3516.2,
+      "role": "comedian",
+      "content": "We keep creeping up at hill, man, tick, tick.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3516.2,
+      "end": 3518.84,
+      "role": "comedian",
+      "content": "We start cresting over the top of that hill",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3518.84,
+      "end": 3526.3,
+      "role": "comedian",
+      "content": "and you can see the entire state of Florida.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3522.72,
+      "end": 3523.2,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3526.3,
+      "end": 3534.66,
+      "role": "comedian",
+      "content": "My son looks at me and he goes, so we're gonna die, daddy.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3531.84,
+      "end": 3532.32,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3534.66,
+      "end": 3537.1,
+      "role": "comedian",
+      "content": "So trying to be tough, I grab him real tight.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3538.02,
+      "end": 3554.36,
+      "role": "comedian",
+      "content": "I start rubbing his head and I say,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3543.84,
+      "end": 3544.32,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3546.24,
+      "end": 3546.72,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3553.44,
+      "end": 3554.4,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3554.36,
+      "end": 3558.3,
+      "role": "comedian",
+      "content": "did we fall off the face of the earth?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3558.3,
+      "end": 3561.38,
+      "role": "comedian",
+      "content": "And we're going 100 miles an hour.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3562.5,
+      "end": 3564.34,
+      "role": "comedian",
+      "content": "And I can feel this, we're going through loops",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3564.34,
+      "end": 3567.1,
+      "role": "comedian",
+      "content": "in turn, but two seconds later",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3567.1,
+      "end": 3571.85,
+      "role": "comedian",
+      "content": "after we fall off that hill, that coaster goes, skirt.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3571.85,
+      "end": 3576.66,
+      "role": "comedian",
+      "content": "And with my eyes closed, I'm thinking to myself,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3576.66,
+      "end": 3581.17,
+      "role": "comedian",
+      "content": "that wasn't bad at all.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3581.17,
+      "end": 3583.25,
+      "role": "comedian",
+      "content": "But if you've ever been on that ride before,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3583.25,
+      "end": 3590.5,
+      "role": "comedian",
+      "content": "you know that shit ain't over with yet.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3590.5,
+      "end": 3595.1,
+      "role": "comedian",
+      "content": "Open my eyes to see that the roller coaster stopped",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3595.1,
+      "end": 3596.82,
+      "role": "comedian",
+      "content": "because it's a dead end.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3597.78,
+      "end": 3599.78,
+      "role": "comedian",
+      "content": "It looks like you about to fly off.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3600.66,
+      "end": 3603.5,
+      "role": "comedian",
+      "content": "Now I know this is part of the ride,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3603.5,
+      "end": 3609.1,
+      "role": "comedian",
+      "content": "but my four-year-old son don't.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3609.1,
+      "end": 3613.02,
+      "role": "comedian",
+      "content": "My son opens his eyes and when he opens his eyes,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3613.02,
+      "end": 3631.56,
+      "role": "comedian",
+      "content": "he goes, oh, I too have a gag reflex.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3627.84,
+      "end": 3628.32,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3634.22,
+      "end": 3635.06,
+      "role": "comedian",
+      "content": "So I'm like, no.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3642.67,
+      "end": 3645.91,
+      "role": "comedian",
+      "content": "So here we are on in this roller coaster",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3645.91,
+      "end": 3651.11,
+      "role": "comedian",
+      "content": "just puking on each other.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3651.11,
+      "end": 3652.19,
+      "role": "comedian",
+      "content": "Not sure if you know this,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3652.19,
+      "end": 3658.82,
+      "role": "comedian",
+      "content": "but them roller coasters have cameras on them.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3658.82,
+      "end": 3665.98,
+      "role": "comedian",
+      "content": "We didn't buy that picture.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3665.98,
+      "end": 3669.18,
+      "role": "comedian",
+      "content": "I finally get to troll of my bodily functions.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3670.26,
+      "end": 3672.3,
+      "role": "comedian",
+      "content": "I grab my boy real tight again.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3673.22,
+      "end": 3674.06,
+      "role": "comedian",
+      "content": "Can I say?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3675.3,
+      "end": 3679.7,
+      "role": "comedian",
+      "content": "Baby, we will be,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3683.41,
+      "end": 3689.69,
+      "role": "comedian",
+      "content": "now we're going backwards at 200 miles an hour.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3692.64,
+      "end": 3694.64,
+      "role": "comedian",
+      "content": "Worst part about going backwards is,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3694.64,
+      "end": 3697.2,
+      "role": "comedian",
+      "content": "you and these pitch black tunnels.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3697.2,
+      "end": 3698.52,
+      "role": "comedian",
+      "content": "It's pitch black dark.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3698.52,
+      "end": 3702.24,
+      "role": "comedian",
+      "content": "You can't see your hand in front of your face.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3702.28,
+      "end": 3705.52,
+      "role": "comedian",
+      "content": "And as we are going through those pitch black tunnels",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3705.52,
+      "end": 3707.56,
+      "role": "comedian",
+      "content": "and I am hanging on to my son,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3707.56,
+      "end": 3711.0,
+      "role": "comedian",
+      "content": "all you can hear in them tunnels is screaming and crying.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3711.36,
+      "end": 3711.84,
+      "role": "audience",
+      "content": "[laughter]",
+      "reaction_type": "laughter"
+    },
+    {
+      "start": 3712.68,
+      "end": 3714.36,
+      "role": "comedian",
+      "content": "And all of a sudden I hear my son.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3714.36,
+      "end": 3733.91,
+      "role": "comedian",
+      "content": "He says, stop that shit, you embarrassing me.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3725.28,
+      "end": 3726.24,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 3728.64,
+      "end": 3729.12,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 3733.91,
+      "end": 3737.66,
+      "role": "comedian",
+      "content": "That roller coaster comes out of them tunnels,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3737.66,
+      "end": 3740.82,
+      "role": "comedian",
+      "content": "pulls into the station, stops.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3740.82,
+      "end": 3743.42,
+      "role": "comedian",
+      "content": "But as that roller coaster stops,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3744.42,
+      "end": 3751.38,
+      "role": "comedian",
+      "content": "a slight breeze comes over the roller coaster.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3751.38,
+      "end": 3758.4,
+      "role": "comedian",
+      "content": "And on that breeze you could smell a hint of doo-doo.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3774.52,
+      "end": 3777.88,
+      "role": "comedian",
+      "content": "So I picked my son up off that roller coaster.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3777.88,
+      "end": 3779.76,
+      "role": "comedian",
+      "content": "We're going to walk him off.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3779.76,
+      "end": 3782.2,
+      "role": "comedian",
+      "content": "And I look at him in front of everybody and I say,",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3782.2,
+      "end": 3786.8,
+      "role": "comedian",
+      "content": "son, it is all right.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3786.8,
+      "end": 3791.5,
+      "role": "comedian",
+      "content": "You did not mean to do that",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3791.5,
+      "end": 3794.62,
+      "role": "comedian",
+      "content": "because I didn't want them people on that coaster",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3794.62,
+      "end": 3797.58,
+      "role": "comedian",
+      "content": "knowing that I was the one to shat myself.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3798.72,
+      "end": 3801.6,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 3802.08,
+      "end": 3803.04,
+      "role": "audience",
+      "content": "[applause]",
+      "reaction_type": "applause"
+    },
+    {
+      "start": 3854.33,
+      "end": 3856.17,
+      "role": "comedian",
+      "content": "My dad.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3858.73,
+      "end": 3859.73,
+      "role": "comedian",
+      "content": "Cannonball.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3862.92,
+      "end": 3866.12,
+      "role": "comedian",
+      "content": "Y'all come on in because the water is fine.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3866.12,
+      "end": 3873.9,
+      "role": "comedian",
+      "content": "Ladies and gentlemen, give it up for Ginger Billing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3873.9,
+      "end": 3875.1,
+      "role": "comedian",
+      "content": "Where am I?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3875.1,
+      "end": 3876.66,
+      "role": "comedian",
+      "content": "Is this planet Earth?",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3876.66,
+      "end": 3878.42,
+      "role": "comedian",
+      "content": "No, no, this is not Earth.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3878.42,
+      "end": 3880.3,
+      "role": "comedian",
+      "content": "This is America.",
+      "event_type": "speech",
+      "delivery_tag": null
+    },
+    {
+      "start": 3880.3,
+      "end": 3894.17,
+      "role": "comedian",
+      "content": "Ladies and gentlemen, give it up for my dad, Ginger Billing.",
+      "event_type": "speech",
+      "delivery_tag": null
+    }
+  ]
+}

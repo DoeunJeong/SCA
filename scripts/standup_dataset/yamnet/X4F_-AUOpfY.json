@@ -1,0 +1,116 @@
+{
+  "video_id": "X4F_-AUOpfY",
+  "created_at": "2025-12-28T13:59:24.650948Z",
+  "threshold": 0.35,
+  "events": [
+    {
+      "start": 131.52,
+      "end": 132.48,
+      "reaction_type": "laughter",
+      "score": 0.571478009223938
+    },
+    {
+      "start": 262.08,
+      "end": 262.56,
+      "reaction_type": "laughter",
+      "score": 0.3894095718860626
+    },
+    {
+      "start": 457.44,
+      "end": 457.92,
+      "reaction_type": "laughter",
+      "score": 0.6469326019287109
+    },
+    {
+      "start": 737.76,
+      "end": 738.72,
+      "reaction_type": "applause",
+      "score": 0.9443256855010986
+    },
+    {
+      "start": 770.88,
+      "end": 771.36,
+      "reaction_type": "laughter",
+      "score": 0.47697222232818604
+    },
+    {
+      "start": 780.96,
+      "end": 781.44,
+      "reaction_type": "laughter",
+      "score": 0.36914506554603577
+    },
+    {
+      "start": 834.24,
+      "end": 834.72,
+      "reaction_type": "laughter",
+      "score": 0.9140313267707825
+    },
+    {
+      "start": 934.56,
+      "end": 935.04,
+      "reaction_type": "laughter",
+      "score": 0.4826503098011017
+    },
+    {
+      "start": 955.2,
+      "end": 955.68,
+      "reaction_type": "laughter",
+      "score": 0.35408657789230347
+    },
+    {
+      "start": 1020.0,
+      "end": 1020.48,
+      "reaction_type": "laughter",
+      "score": 0.44017723202705383
+    },
+    {
+      "start": 1283.52,
+      "end": 1284.0,
+      "reaction_type": "cheering",
+      "score": 0.4558356702327728
+    },
+    {
+      "start": 1286.4,
+      "end": 1286.88,
+      "reaction_type": "applause",
+      "score": 0.4127812683582306
+    },
+    {
+      "start": 2257.44,
+      "end": 2258.4,
+      "reaction_type": "laughter",
+      "score": 0.6858341097831726
+    },
+    {
+      "start": 2347.2,
+      "end": 2347.68,
+      "reaction_type": "laughter",
+      "score": 0.49675115942955017
+    },
+    {
+      "start": 2822.88,
+      "end": 2823.36,
+      "reaction_type": "laughter",
+      "score": 0.4621298015117645
+    },
+    {
+      "start": 3348.96,
+      "end": 3349.44,
+      "reaction_type": "laughter",
+      "score": 0.35905617475509644
+    },
+    {
+      "start": 3401.28,
+      "end": 3401.76,
+      "reaction_type": "laughter",
+      "score": 0.4061104953289032
+    },
+    {
+      "start": 3535.68,
+      "end": 3536.16,
+      "reaction_type": "applause",
+      "score": 0.5429314374923706
+    }
+  ],
+  "note": "CPU-only TF (CUDA_VISIBLE_DEVICES='')"
+}

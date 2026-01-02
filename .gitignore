@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# big / model artifacts (필요하면 조정)
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+
+# data/audio/video (필요하면 조정)
+data/
+datasets/
+*.wav
+*.mp3
+*.mp4
+
+# env
+.venv/
+env/

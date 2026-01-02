@@ -1,0 +1,266 @@
+{
+  "video_id": "z0SsuCwWT2E",
+  "created_at": "2025-12-28T14:00:29.428773Z",
+  "threshold": 0.35,
+  "events": [
+    {
+      "start": 77.75999999999999,
+      "end": 78.24,
+      "reaction_type": "laughter",
+      "score": 0.35796961188316345
+    },
+    {
+      "start": 314.88,
+      "end": 315.36,
+      "reaction_type": "laughter",
+      "score": 0.3631962239742279
+    },
+    {
+      "start": 352.8,
+      "end": 353.28,
+      "reaction_type": "laughter",
+      "score": 0.4118408262729645
+    },
+    {
+      "start": 475.68,
+      "end": 476.15999999999997,
+      "reaction_type": "laughter",
+      "score": 0.3777545094490051
+    },
+    {
+      "start": 716.64,
+      "end": 717.12,
+      "reaction_type": "laughter",
+      "score": 0.4414495825767517
+    },
+    {
+      "start": 722.88,
+      "end": 723.36,
+      "reaction_type": "laughter",
+      "score": 0.5176286101341248
+    },
+    {
+      "start": 742.56,
+      "end": 743.04,
+      "reaction_type": "applause",
+      "score": 0.7725875377655029
+    },
+    {
+      "start": 756.48,
+      "end": 756.96,
+      "reaction_type": "laughter",
+      "score": 0.3704233765602112
+    },
+    {
+      "start": 831.36,
+      "end": 832.8,
+      "reaction_type": "laughter",
+      "score": 0.3774431645870209
+    },
+    {
+      "start": 951.84,
+      "end": 952.32,
+      "reaction_type": "laughter",
+      "score": 0.41390952467918396
+    },
+    {
+      "start": 981.12,
+      "end": 981.6,
+      "reaction_type": "laughter",
+      "score": 0.3827786445617676
+    },
+    {
+      "start": 1009.44,
+      "end": 1009.92,
+      "reaction_type": "laughter",
+      "score": 0.36542433500289917
+    },
+    {
+      "start": 1062.72,
+      "end": 1063.68,
+      "reaction_type": "laughter",
+      "score": 0.5169450044631958
+    },
+    {
+      "start": 1099.68,
+      "end": 1100.64,
+      "reaction_type": "laughter",
+      "score": 0.5215392708778381
+    },
+    {
+      "start": 1215.36,
+      "end": 1215.84,
+      "reaction_type": "laughter",
+      "score": 0.6143614053726196
+    },
+    {
+      "start": 1296.48,
+      "end": 1297.44,
+      "reaction_type": "laughter",
+      "score": 0.6064447164535522
+    },
+    {
+      "start": 1325.76,
+      "end": 1326.24,
+      "reaction_type": "laughter",
+      "score": 0.41904351115226746
+    },
+    {
+      "start": 1460.64,
+      "end": 1461.12,
+      "reaction_type": "laughter",
+      "score": 0.6111340522766113
+    },
+    {
+      "start": 1681.92,
+      "end": 1682.4,
+      "reaction_type": "laughter",
+      "score": 0.40935832262039185
+    },
+    {
+      "start": 1718.4,
+      "end": 1718.88,
+      "reaction_type": "laughter",
+      "score": 0.3736134469509125
+    },
+    {
+      "start": 1870.08,
+      "end": 1870.56,
+      "reaction_type": "applause",
+      "score": 0.44807958602905273
+    },
+    {
+      "start": 1873.44,
+      "end": 1873.92,
+      "reaction_type": "applause",
+      "score": 0.8142085075378418
+    },
+    {
+      "start": 2008.32,
+      "end": 2008.8,
+      "reaction_type": "laughter",
+      "score": 0.41276952624320984
+    },
+    {
+      "start": 2076.48,
+      "end": 2076.96,
+      "reaction_type": "laughter",
+      "score": 0.3814709186553955
+    },
+    {
+      "start": 2129.28,
+      "end": 2129.76,
+      "reaction_type": "laughter",
+      "score": 0.43130630254745483
+    },
+    {
+      "start": 2212.8,
+      "end": 2213.76,
+      "reaction_type": "laughter",
+      "score": 0.4623580873012543
+    },
+    {
+      "start": 2252.16,
+      "end": 2252.64,
+      "reaction_type": "laughter",
+      "score": 0.36798110604286194
+    },
+    {
+      "start": 2362.56,
+      "end": 2363.52,
+      "reaction_type": "laughter",
+      "score": 0.6446043252944946
+    },
+    {
+      "start": 2384.64,
+      "end": 2385.12,
+      "reaction_type": "laughter",
+      "score": 0.3840921223163605
+    },
+    {
+      "start": 2424.48,
+      "end": 2425.44,
+      "reaction_type": "laughter",
+      "score": 0.4049752354621887
+    },
+    {
+      "start": 2475.36,
+      "end": 2475.84,
+      "reaction_type": "laughter",
+      "score": 0.41820529103279114
+    },
+    {
+      "start": 2488.32,
+      "end": 2488.8,
+      "reaction_type": "laughter",
+      "score": 0.455916166305542
+    },
+    {
+      "start": 2501.76,
+      "end": 2502.24,
+      "reaction_type": "laughter",
+      "score": 0.3619428277015686
+    },
+    {
+      "start": 2656.32,
+      "end": 2656.8,
+      "reaction_type": "laughter",
+      "score": 0.40790727734565735
+    },
+    {
+      "start": 2840.64,
+      "end": 2841.12,
+      "reaction_type": "laughter",
+      "score": 0.35378003120422363
+    },
+    {
+      "start": 2847.84,
+      "end": 2848.8,
+      "reaction_type": "laughter",
+      "score": 0.6029480695724487
+    },
+    {
+      "start": 2955.84,
+      "end": 2956.32,
+      "reaction_type": "laughter",
+      "score": 0.4978092312812805
+    },
+    {
+      "start": 2973.6,
+      "end": 2974.08,
+      "reaction_type": "laughter",
+      "score": 0.3836072087287903
+    },
+    {
+      "start": 3009.12,
+      "end": 3009.6,
+      "reaction_type": "laughter",
+      "score": 0.40293967723846436
+    },
+    {
+      "start": 3089.28,
+      "end": 3089.76,
+      "reaction_type": "laughter",
+      "score": 0.38709399104118347
+    },
+    {
+      "start": 3132.96,
+      "end": 3133.44,
+      "reaction_type": "laughter",
+      "score": 0.5845828652381897
+    },
+    {
+      "start": 3210.24,
+      "end": 3210.72,
+      "reaction_type": "laughter",
+      "score": 0.5769027471542358
+    },
+    {
+      "start": 3223.2,
+      "end": 3224.16,
+      "reaction_type": "laughter",
+      "score": 0.5420627593994141
+    }
+  ],
+  "note": "CPU-only TF (CUDA_VISIBLE_DEVICES='')"
+}

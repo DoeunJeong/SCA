@@ -1,0 +1,1334 @@
+{
+  "video_id": "TSi5zOfEaQE",
+  "created_at": "2025-12-28T14:01:31.144046Z",
+  "threshold": 0.35,
+  "events": [
+    {
+      "start": 4.8,
+      "end": 5.279999999999999,
+      "reaction_type": "cheering",
+      "score": 0.360758513212204
+    },
+    {
+      "start": 6.72,
+      "end": 7.199999999999999,
+      "reaction_type": "cheering",
+      "score": 0.835955798625946
+    },
+    {
+      "start": 12.48,
+      "end": 13.44,
+      "reaction_type": "cheering",
+      "score": 0.43033385276794434
+    },
+    {
+      "start": 13.92,
+      "end": 15.36,
+      "reaction_type": "cheering",
+      "score": 0.508572518825531
+    },
+    {
+      "start": 15.84,
+      "end": 18.72,
+      "reaction_type": "cheering",
+      "score": 0.6680896878242493
+    },
+    {
+      "start": 19.2,
+      "end": 24.96,
+      "reaction_type": "cheering",
+      "score": 0.8596431016921997
+    },
+    {
+      "start": 25.919999999999998,
+      "end": 26.4,
+      "reaction_type": "cheering",
+      "score": 0.4375359117984772
+    },
+    {
+      "start": 27.36,
+      "end": 28.32,
+      "reaction_type": "cheering",
+      "score": 0.6189063191413879
+    },
+    {
+      "start": 28.799999999999997,
+      "end": 29.279999999999998,
+      "reaction_type": "applause",
+      "score": 0.4084506928920746
+    },
+    {
+      "start": 29.279999999999998,
+      "end": 32.16,
+      "reaction_type": "cheering",
+      "score": 0.7277541160583496
+    },
+    {
+      "start": 29.759999999999998,
+      "end": 30.24,
+      "reaction_type": "applause",
+      "score": 0.5683207511901855
+    },
+    {
+      "start": 32.64,
+      "end": 35.519999999999996,
+      "reaction_type": "cheering",
+      "score": 0.5377739667892456
+    },
+    {
+      "start": 33.6,
+      "end": 34.56,
+      "reaction_type": "applause",
+      "score": 0.5802317261695862
+    },
+    {
+      "start": 37.92,
+      "end": 38.4,
+      "reaction_type": "cheering",
+      "score": 0.474590003490448
+    },
+    {
+      "start": 40.8,
+      "end": 42.72,
+      "reaction_type": "cheering",
+      "score": 0.8446152210235596
+    },
+    {
+      "start": 43.199999999999996,
+      "end": 43.68,
+      "reaction_type": "cheering",
+      "score": 0.3611380159854889
+    },
+    {
+      "start": 43.68,
+      "end": 44.16,
+      "reaction_type": "applause",
+      "score": 0.5312588810920715
+    },
+    {
+      "start": 52.8,
+      "end": 53.28,
+      "reaction_type": "cheering",
+      "score": 0.5853847861289978
+    },
+    {
+      "start": 54.72,
+      "end": 55.68,
+      "reaction_type": "cheering",
+      "score": 0.5317832231521606
+    },
+    {
+      "start": 63.36,
+      "end": 63.84,
+      "reaction_type": "cheering",
+      "score": 0.4648388922214508
+    },
+    {
+      "start": 110.88,
+      "end": 111.36,
+      "reaction_type": "laughter",
+      "score": 0.407278835773468
+    },
+    {
+      "start": 155.51999999999998,
+      "end": 156.0,
+      "reaction_type": "laughter",
+      "score": 0.517433226108551
+    },
+    {
+      "start": 265.92,
+      "end": 266.4,
+      "reaction_type": "laughter",
+      "score": 0.4139493405818939
+    },
+    {
+      "start": 276.96,
+      "end": 277.92,
+      "reaction_type": "laughter",
+      "score": 0.6442661881446838
+    },
+    {
+      "start": 309.6,
+      "end": 310.08,
+      "reaction_type": "laughter",
+      "score": 0.37168824672698975
+    },
+    {
+      "start": 410.4,
+      "end": 411.36,
+      "reaction_type": "cheering",
+      "score": 0.6801444292068481
+    },
+    {
+      "start": 412.8,
+      "end": 413.28,
+      "reaction_type": "cheering",
+      "score": 0.40186619758605957
+    },
+    {
+      "start": 413.76,
+      "end": 415.2,
+      "reaction_type": "applause",
+      "score": 0.9340419173240662
+    },
+    {
+      "start": 415.2,
+      "end": 415.68,
+      "reaction_type": "cheering",
+      "score": 0.475747287273407
+    },
+    {
+      "start": 446.4,
+      "end": 447.36,
+      "reaction_type": "laughter",
+      "score": 0.7108279466629028
+    },
+    {
+      "start": 537.6,
+      "end": 538.08,
+      "reaction_type": "laughter",
+      "score": 0.5944441556930542
+    },
+    {
+      "start": 589.44,
+      "end": 589.92,
+      "reaction_type": "laughter",
+      "score": 0.5092809200286865
+    },
+    {
+      "start": 601.44,
+      "end": 601.92,
+      "reaction_type": "laughter",
+      "score": 0.4695959985256195
+    },
+    {
+      "start": 647.04,
+      "end": 648.0,
+      "reaction_type": "cheering",
+      "score": 0.5511944890022278
+    },
+    {
+      "start": 725.76,
+      "end": 726.24,
+      "reaction_type": "laughter",
+      "score": 0.4194554090499878
+    },
+    {
+      "start": 837.6,
+      "end": 839.52,
+      "reaction_type": "cheering",
+      "score": 0.8588175177574158
+    },
+    {
+      "start": 840.0,
+      "end": 843.36,
+      "reaction_type": "cheering",
+      "score": 0.9441425204277039
+    },
+    {
+      "start": 843.36,
+      "end": 845.28,
+      "reaction_type": "applause",
+      "score": 0.9866803288459778
+    },
+    {
+      "start": 1033.44,
+      "end": 1033.92,
+      "reaction_type": "laughter",
+      "score": 0.4063187539577484
+    },
+    {
+      "start": 1036.8,
+      "end": 1037.28,
+      "reaction_type": "laughter",
+      "score": 0.39533373713493347
+    },
+    {
+      "start": 1091.52,
+      "end": 1092.0,
+      "reaction_type": "laughter",
+      "score": 0.3873178958892822
+    },
+    {
+      "start": 1095.84,
+      "end": 1096.32,
+      "reaction_type": "laughter",
+      "score": 0.36429157853126526
+    },
+    {
+      "start": 1161.6,
+      "end": 1162.08,
+      "reaction_type": "laughter",
+      "score": 0.6617565155029297
+    },
+    {
+      "start": 1259.04,
+      "end": 1259.52,
+      "reaction_type": "laughter",
+      "score": 0.4055071175098419
+    },
+    {
+      "start": 1267.2,
+      "end": 1267.68,
+      "reaction_type": "laughter",
+      "score": 0.3822473883628845
+    },
+    {
+      "start": 1297.92,
+      "end": 1298.4,
+      "reaction_type": "applause",
+      "score": 0.485623300075531
+    },
+    {
+      "start": 1369.44,
+      "end": 1369.92,
+      "reaction_type": "laughter",
+      "score": 0.6535182595252991
+    },
+    {
+      "start": 1372.8,
+      "end": 1373.28,
+      "reaction_type": "cheering",
+      "score": 0.6291297674179077
+    },
+    {
+      "start": 1374.24,
+      "end": 1375.68,
+      "reaction_type": "cheering",
+      "score": 0.6801342964172363
+    },
+    {
+      "start": 1376.16,
+      "end": 1376.64,
+      "reaction_type": "cheering",
+      "score": 0.5290657877922058
+    },
+    {
+      "start": 1376.64,
+      "end": 1377.12,
+      "reaction_type": "applause",
+      "score": 0.8794478178024292
+    },
+    {
+      "start": 1445.28,
+      "end": 1445.76,
+      "reaction_type": "cheering",
+      "score": 0.7300441265106201
+    },
+    {
+      "start": 1446.24,
+      "end": 1446.72,
+      "reaction_type": "applause",
+      "score": 0.41317176818847656
+    },
+    {
+      "start": 1447.2,
+      "end": 1448.16,
+      "reaction_type": "cheering",
+      "score": 0.8274087309837341
+    },
+    {
+      "start": 1450.56,
+      "end": 1451.52,
+      "reaction_type": "applause",
+      "score": 0.8046859502792358
+    },
+    {
+      "start": 1451.04,
+      "end": 1451.52,
+      "reaction_type": "cheering",
+      "score": 0.46879440546035767
+    },
+    {
+      "start": 1546.56,
+      "end": 1547.04,
+      "reaction_type": "laughter",
+      "score": 0.3716656565666199
+    },
+    {
+      "start": 1599.84,
+      "end": 1600.32,
+      "reaction_type": "cheering",
+      "score": 0.40462931990623474
+    },
+    {
+      "start": 1601.28,
+      "end": 1601.76,
+      "reaction_type": "cheering",
+      "score": 0.4695131182670593
+    },
+    {
+      "start": 1601.76,
+      "end": 1602.72,
+      "reaction_type": "applause",
+      "score": 0.7774860262870789
+    },
+    {
+      "start": 1603.68,
+      "end": 1604.16,
+      "reaction_type": "applause",
+      "score": 0.5597591996192932
+    },
+    {
+      "start": 1605.12,
+      "end": 1605.6,
+      "reaction_type": "applause",
+      "score": 0.5783872008323669
+    },
+    {
+      "start": 1607.52,
+      "end": 1608.96,
+      "reaction_type": "applause",
+      "score": 0.9846670627593994
+    },
+    {
+      "start": 1611.36,
+      "end": 1611.84,
+      "reaction_type": "applause",
+      "score": 0.3618655800819397
+    },
+    {
+      "start": 1629.6,
+      "end": 1630.08,
+      "reaction_type": "laughter",
+      "score": 0.3540757894515991
+    },
+    {
+      "start": 1643.04,
+      "end": 1643.52,
+      "reaction_type": "laughter",
+      "score": 0.3947955071926117
+    },
+    {
+      "start": 1669.92,
+      "end": 1670.4,
+      "reaction_type": "laughter",
+      "score": 0.43599167466163635
+    },
+    {
+      "start": 1746.72,
+      "end": 1747.2,
+      "reaction_type": "applause",
+      "score": 0.6275366544723511
+    },
+    {
+      "start": 1750.08,
+      "end": 1751.52,
+      "reaction_type": "cheering",
+      "score": 0.6015745997428894
+    },
+    {
+      "start": 1752.0,
+      "end": 1752.48,
+      "reaction_type": "cheering",
+      "score": 0.4351865351200104
+    },
+    {
+      "start": 1752.48,
+      "end": 1753.92,
+      "reaction_type": "applause",
+      "score": 0.9516006708145142
+    },
+    {
+      "start": 1754.4,
+      "end": 1754.88,
+      "reaction_type": "applause",
+      "score": 0.8830156326293945
+    },
+    {
+      "start": 1833.12,
+      "end": 1833.6,
+      "reaction_type": "laughter",
+      "score": 0.354564905166626
+    },
+    {
+      "start": 1954.08,
+      "end": 1955.04,
+      "reaction_type": "cheering",
+      "score": 0.9030730724334717
+    },
+    {
+      "start": 1955.52,
+      "end": 1957.44,
+      "reaction_type": "cheering",
+      "score": 0.7818571925163269
+    },
+    {
+      "start": 1980.0,
+      "end": 1980.96,
+      "reaction_type": "laughter",
+      "score": 0.36710911989212036
+    },
+    {
+      "start": 1981.92,
+      "end": 1982.4,
+      "reaction_type": "laughter",
+      "score": 0.35255926847457886
+    },
+    {
+      "start": 2041.92,
+      "end": 2042.4,
+      "reaction_type": "laughter",
+      "score": 0.37374255061149597
+    },
+    {
+      "start": 2086.56,
+      "end": 2087.04,
+      "reaction_type": "laughter",
+      "score": 0.49333247542381287
+    },
+    {
+      "start": 2101.92,
+      "end": 2102.4,
+      "reaction_type": "laughter",
+      "score": 0.36361584067344666
+    },
+    {
+      "start": 2246.88,
+      "end": 2248.32,
+      "reaction_type": "laughter",
+      "score": 0.538906991481781
+    },
+    {
+      "start": 2273.76,
+      "end": 2275.68,
+      "reaction_type": "laughter",
+      "score": 0.45091408491134644
+    },
+    {
+      "start": 2377.92,
+      "end": 2378.4,
+      "reaction_type": "laughter",
+      "score": 0.42743557691574097
+    },
+    {
+      "start": 2503.68,
+      "end": 2504.16,
+      "reaction_type": "cheering",
+      "score": 0.4984842836856842
+    },
+    {
+      "start": 2507.52,
+      "end": 2508.48,
+      "reaction_type": "applause",
+      "score": 0.919273853302002
+    },
+    {
+      "start": 2508.96,
+      "end": 2514.24,
+      "reaction_type": "applause",
+      "score": 0.9981058239936829
+    },
+    {
+      "start": 2514.72,
+      "end": 2515.68,
+      "reaction_type": "cheering",
+      "score": 0.693805456161499
+    },
+    {
+      "start": 2516.64,
+      "end": 2517.12,
+      "reaction_type": "cheering",
+      "score": 0.42298755049705505
+    },
+    {
+      "start": 2518.08,
+      "end": 2519.04,
+      "reaction_type": "cheering",
+      "score": 0.4306679666042328
+    },
+    {
+      "start": 2520.0,
+      "end": 2520.48,
+      "reaction_type": "applause",
+      "score": 0.44041576981544495
+    },
+    {
+      "start": 2520.0,
+      "end": 2520.48,
+      "reaction_type": "cheering",
+      "score": 0.4651874601840973
+    },
+    {
+      "start": 2520.96,
+      "end": 2523.84,
+      "reaction_type": "applause",
+      "score": 0.9698781371116638
+    },
+    {
+      "start": 2524.32,
+      "end": 2524.8,
+      "reaction_type": "cheering",
+      "score": 0.4206050634384155
+    },
+    {
+      "start": 2617.92,
+      "end": 2618.4,
+      "reaction_type": "laughter",
+      "score": 0.4192046821117401
+    },
+    {
+      "start": 2628.48,
+      "end": 2628.96,
+      "reaction_type": "laughter",
+      "score": 0.6383140087127686
+    },
+    {
+      "start": 2656.8,
+      "end": 2657.76,
+      "reaction_type": "applause",
+      "score": 0.41428273916244507
+    },
+    {
+      "start": 2657.28,
+      "end": 2657.76,
+      "reaction_type": "cheering",
+      "score": 0.4858890473842621
+    },
+    {
+      "start": 2658.24,
+      "end": 2661.12,
+      "reaction_type": "applause",
+      "score": 0.9844538569450378
+    },
+    {
+      "start": 2705.28,
+      "end": 2705.76,
+      "reaction_type": "cheering",
+      "score": 0.5427447557449341
+    },
+    {
+      "start": 2706.24,
+      "end": 2706.72,
+      "reaction_type": "applause",
+      "score": 0.6356414556503296
+    },
+    {
+      "start": 2708.16,
+      "end": 2709.6,
+      "reaction_type": "applause",
+      "score": 0.9470526576042175
+    },
+    {
+      "start": 2772.96,
+      "end": 2776.32,
+      "reaction_type": "applause",
+      "score": 0.9459061026573181
+    },
+    {
+      "start": 2773.44,
+      "end": 2773.92,
+      "reaction_type": "cheering",
+      "score": 0.3507314622402191
+    },
+    {
+      "start": 2774.4,
+      "end": 2774.88,
+      "reaction_type": "cheering",
+      "score": 0.5577192306518555
+    },
+    {
+      "start": 2777.28,
+      "end": 2777.76,
+      "reaction_type": "cheering",
+      "score": 0.4234005808830261
+    },
+    {
+      "start": 2777.76,
+      "end": 2778.24,
+      "reaction_type": "applause",
+      "score": 0.3680064380168915
+    },
+    {
+      "start": 2805.12,
+      "end": 2805.6,
+      "reaction_type": "laughter",
+      "score": 0.4704306423664093
+    },
+    {
+      "start": 2842.08,
+      "end": 2842.56,
+      "reaction_type": "laughter",
+      "score": 0.3707406222820282
+    },
+    {
+      "start": 2843.52,
+      "end": 2844.0,
+      "reaction_type": "laughter",
+      "score": 0.40320155024528503
+    },
+    {
+      "start": 2857.92,
+      "end": 2858.4,
+      "reaction_type": "laughter",
+      "score": 0.36260151863098145
+    },
+    {
+      "start": 2908.32,
+      "end": 2908.8,
+      "reaction_type": "laughter",
+      "score": 0.46616554260253906
+    },
+    {
+      "start": 2916.96,
+      "end": 2917.44,
+      "reaction_type": "laughter",
+      "score": 0.3615138530731201
+    },
+    {
+      "start": 2933.76,
+      "end": 2934.72,
+      "reaction_type": "laughter",
+      "score": 0.4386720359325409
+    },
+    {
+      "start": 2940.0,
+      "end": 2940.48,
+      "reaction_type": "applause",
+      "score": 0.9039011001586914
+    },
+    {
+      "start": 2946.72,
+      "end": 2948.64,
+      "reaction_type": "applause",
+      "score": 0.939598798751831
+    },
+    {
+      "start": 2946.72,
+      "end": 2947.2,
+      "reaction_type": "cheering",
+      "score": 0.3814719021320343
+    },
+    {
+      "start": 2956.32,
+      "end": 2959.68,
+      "reaction_type": "cheering",
+      "score": 0.9353851675987244
+    },
+    {
+      "start": 2960.64,
+      "end": 2961.12,
+      "reaction_type": "cheering",
+      "score": 0.5701007843017578
+    },
+    {
+      "start": 3009.12,
+      "end": 3009.6,
+      "reaction_type": "cheering",
+      "score": 0.7659196853637695
+    },
+    {
+      "start": 3010.08,
+      "end": 3010.56,
+      "reaction_type": "applause",
+      "score": 0.5504835844039917
+    },
+    {
+      "start": 3010.08,
+      "end": 3012.0,
+      "reaction_type": "cheering",
+      "score": 0.7912299633026123
+    },
+    {
+      "start": 3011.52,
+      "end": 3012.48,
+      "reaction_type": "applause",
+      "score": 0.521026611328125
+    },
+    {
+      "start": 3012.48,
+      "end": 3012.96,
+      "reaction_type": "cheering",
+      "score": 0.5131165981292725
+    },
+    {
+      "start": 3013.44,
+      "end": 3014.88,
+      "reaction_type": "applause",
+      "score": 0.7464146018028259
+    },
+    {
+      "start": 3029.28,
+      "end": 3029.76,
+      "reaction_type": "laughter",
+      "score": 0.4313899874687195
+    },
+    {
+      "start": 3034.56,
+      "end": 3035.04,
+      "reaction_type": "laughter",
+      "score": 0.4232006371021271
+    },
+    {
+      "start": 3039.36,
+      "end": 3039.84,
+      "reaction_type": "laughter",
+      "score": 0.39021968841552734
+    },
+    {
+      "start": 3088.32,
+      "end": 3089.76,
+      "reaction_type": "cheering",
+      "score": 0.583911657333374
+    },
+    {
+      "start": 3089.76,
+      "end": 3092.64,
+      "reaction_type": "applause",
+      "score": 0.9287746548652649
+    },
+    {
+      "start": 3090.72,
+      "end": 3091.2,
+      "reaction_type": "cheering",
+      "score": 0.4564007818698883
+    },
+    {
+      "start": 3093.12,
+      "end": 3093.6,
+      "reaction_type": "cheering",
+      "score": 0.6397740840911865
+    },
+    {
+      "start": 3093.6,
+      "end": 3095.52,
+      "reaction_type": "applause",
+      "score": 0.9962030649185181
+    },
+    {
+      "start": 3096.96,
+      "end": 3097.44,
+      "reaction_type": "applause",
+      "score": 0.9490829706192017
+    },
+    {
+      "start": 3113.28,
+      "end": 3113.76,
+      "reaction_type": "cheering",
+      "score": 0.6098959445953369
+    },
+    {
+      "start": 3113.76,
+      "end": 3118.56,
+      "reaction_type": "applause",
+      "score": 0.9949296712875366
+    },
+    {
+      "start": 3160.8,
+      "end": 3161.28,
+      "reaction_type": "cheering",
+      "score": 0.46707361936569214
+    },
+    {
+      "start": 3162.24,
+      "end": 3162.72,
+      "reaction_type": "applause",
+      "score": 0.904706597328186
+    },
+    {
+      "start": 3166.08,
+      "end": 3168.48,
+      "reaction_type": "applause",
+      "score": 0.8692371249198914
+    },
+    {
+      "start": 3174.24,
+      "end": 3178.56,
+      "reaction_type": "cheering",
+      "score": 0.8153716325759888
+    },
+    {
+      "start": 3179.04,
+      "end": 3179.52,
+      "reaction_type": "applause",
+      "score": 0.43450090289115906
+    },
+    {
+      "start": 3180.0,
+      "end": 3185.28,
+      "reaction_type": "applause",
+      "score": 0.9767561554908752
+    },
+    {
+      "start": 3312.0,
+      "end": 3312.96,
+      "reaction_type": "laughter",
+      "score": 0.5444867610931396
+    },
+    {
+      "start": 3355.68,
+      "end": 3356.16,
+      "reaction_type": "applause",
+      "score": 0.6735188961029053
+    },
+    {
+      "start": 3356.64,
+      "end": 3357.12,
+      "reaction_type": "cheering",
+      "score": 0.45653992891311646
+    },
+    {
+      "start": 3358.08,
+      "end": 3359.04,
+      "reaction_type": "cheering",
+      "score": 0.7137171626091003
+    },
+    {
+      "start": 3359.04,
+      "end": 3359.52,
+      "reaction_type": "applause",
+      "score": 0.9212583303451538
+    },
+    {
+      "start": 3360.0,
+      "end": 3365.28,
+      "reaction_type": "applause",
+      "score": 0.981026828289032
+    },
+    {
+      "start": 3395.04,
+      "end": 3395.52,
+      "reaction_type": "laughter",
+      "score": 0.38960790634155273
+    },
+    {
+      "start": 3402.24,
+      "end": 3402.72,
+      "reaction_type": "laughter",
+      "score": 0.3666698932647705
+    },
+    {
+      "start": 3452.64,
+      "end": 3453.12,
+      "reaction_type": "laughter",
+      "score": 0.6635207533836365
+    },
+    {
+      "start": 3499.2,
+      "end": 3499.68,
+      "reaction_type": "cheering",
+      "score": 0.6810637712478638
+    },
+    {
+      "start": 3502.08,
+      "end": 3502.56,
+      "reaction_type": "cheering",
+      "score": 0.39841100573539734
+    },
+    {
+      "start": 3504.0,
+      "end": 3504.48,
+      "reaction_type": "applause",
+      "score": 0.46632814407348633
+    },
+    {
+      "start": 3734.4,
+      "end": 3734.88,
+      "reaction_type": "laughter",
+      "score": 0.4746868908405304
+    },
+    {
+      "start": 3749.28,
+      "end": 3749.76,
+      "reaction_type": "laughter",
+      "score": 0.42248037457466125
+    },
+    {
+      "start": 3826.08,
+      "end": 3826.56,
+      "reaction_type": "laughter",
+      "score": 0.3822140693664551
+    },
+    {
+      "start": 3827.04,
+      "end": 3827.52,
+      "reaction_type": "laughter",
+      "score": 0.5406911969184875
+    },
+    {
+      "start": 3833.76,
+      "end": 3835.68,
+      "reaction_type": "cheering",
+      "score": 0.6360267400741577
+    },
+    {
+      "start": 3843.84,
+      "end": 3844.32,
+      "reaction_type": "laughter",
+      "score": 0.5314594507217407
+    },
+    {
+      "start": 3863.04,
+      "end": 3863.52,
+      "reaction_type": "laughter",
+      "score": 0.4814152121543884
+    },
+    {
+      "start": 3910.08,
+      "end": 3910.56,
+      "reaction_type": "laughter",
+      "score": 0.350306898355484
+    },
+    {
+      "start": 3965.76,
+      "end": 3966.24,
+      "reaction_type": "laughter",
+      "score": 0.4366002380847931
+    },
+    {
+      "start": 3998.4,
+      "end": 3998.88,
+      "reaction_type": "laughter",
+      "score": 0.38071805238723755
+    },
+    {
+      "start": 4056.0,
+      "end": 4061.28,
+      "reaction_type": "cheering",
+      "score": 0.8788451552391052
+    },
+    {
+      "start": 4058.4,
+      "end": 4058.88,
+      "reaction_type": "applause",
+      "score": 0.566758394241333
+    },
+    {
+      "start": 4060.8,
+      "end": 4064.16,
+      "reaction_type": "applause",
+      "score": 0.868701159954071
+    },
+    {
+      "start": 4064.64,
+      "end": 4065.6,
+      "reaction_type": "applause",
+      "score": 0.682430624961853
+    },
+    {
+      "start": 4065.6,
+      "end": 4066.08,
+      "reaction_type": "cheering",
+      "score": 0.5834183692932129
+    },
+    {
+      "start": 4066.08,
+      "end": 4067.52,
+      "reaction_type": "applause",
+      "score": 0.8306903839111328
+    },
+    {
+      "start": 4067.04,
+      "end": 4068.48,
+      "reaction_type": "cheering",
+      "score": 0.5097246170043945
+    },
+    {
+      "start": 4068.0,
+      "end": 4069.92,
+      "reaction_type": "applause",
+      "score": 0.7543688416481018
+    },
+    {
+      "start": 4071.36,
+      "end": 4073.28,
+      "reaction_type": "applause",
+      "score": 0.98381507396698
+    },
+    {
+      "start": 4072.32,
+      "end": 4072.8,
+      "reaction_type": "cheering",
+      "score": 0.5754193663597107
+    },
+    {
+      "start": 4073.76,
+      "end": 4074.24,
+      "reaction_type": "cheering",
+      "score": 0.5282003879547119
+    },
+    {
+      "start": 4074.24,
+      "end": 4074.72,
+      "reaction_type": "applause",
+      "score": 0.4089784622192383
+    },
+    {
+      "start": 4074.72,
+      "end": 4076.16,
+      "reaction_type": "cheering",
+      "score": 0.8569238185882568
+    },
+    {
+      "start": 4075.68,
+      "end": 4079.52,
+      "reaction_type": "applause",
+      "score": 0.9909196496009827
+    },
+    {
+      "start": 4080.0,
+      "end": 4080.48,
+      "reaction_type": "applause",
+      "score": 0.9816108345985413
+    },
+    {
+      "start": 4080.48,
+      "end": 4083.84,
+      "reaction_type": "cheering",
+      "score": 0.8325170278549194
+    },
+    {
+      "start": 4082.4,
+      "end": 4082.88,
+      "reaction_type": "applause",
+      "score": 0.3616907000541687
+    },
+    {
+      "start": 4084.32,
+      "end": 4084.8,
+      "reaction_type": "cheering",
+      "score": 0.5085495114326477
+    },
+    {
+      "start": 4085.28,
+      "end": 4088.16,
+      "reaction_type": "applause",
+      "score": 0.995445966720581
+    },
+    {
+      "start": 4088.16,
+      "end": 4088.64,
+      "reaction_type": "cheering",
+      "score": 0.3943011164665222
+    },
+    {
+      "start": 4091.04,
+      "end": 4092.0,
+      "reaction_type": "cheering",
+      "score": 0.6036624908447266
+    },
+    {
+      "start": 4092.48,
+      "end": 4094.88,
+      "reaction_type": "cheering",
+      "score": 0.6248303651809692
+    },
+    {
+      "start": 4095.84,
+      "end": 4096.32,
+      "reaction_type": "cheering",
+      "score": 0.5918797254562378
+    },
+    {
+      "start": 4096.8,
+      "end": 4097.28,
+      "reaction_type": "applause",
+      "score": 0.3652624785900116
+    },
+    {
+      "start": 4097.28,
+      "end": 4098.24,
+      "reaction_type": "cheering",
+      "score": 0.7981812357902527
+    },
+    {
+      "start": 4100.16,
+      "end": 4102.08,
+      "reaction_type": "cheering",
+      "score": 0.818374514579773
+    },
+    {
+      "start": 4102.56,
+      "end": 4103.04,
+      "reaction_type": "cheering",
+      "score": 0.41133156418800354
+    },
+    {
+      "start": 4104.48,
+      "end": 4104.96,
+      "reaction_type": "cheering",
+      "score": 0.39912787079811096
+    },
+    {
+      "start": 4106.4,
+      "end": 4109.76,
+      "reaction_type": "cheering",
+      "score": 0.7418074607849121
+    },
+    {
+      "start": 4110.24,
+      "end": 4110.72,
+      "reaction_type": "applause",
+      "score": 0.40486741065979004
+    },
+    {
+      "start": 4111.2,
+      "end": 4111.68,
+      "reaction_type": "applause",
+      "score": 0.35019174218177795
+    },
+    {
+      "start": 4111.68,
+      "end": 4113.12,
+      "reaction_type": "cheering",
+      "score": 0.40880492329597473
+    },
+    {
+      "start": 4112.16,
+      "end": 4113.6,
+      "reaction_type": "applause",
+      "score": 0.5394508242607117
+    },
+    {
+      "start": 4115.04,
+      "end": 4115.52,
+      "reaction_type": "cheering",
+      "score": 0.3595118224620819
+    },
+    {
+      "start": 4116.0,
+      "end": 4116.96,
+      "reaction_type": "cheering",
+      "score": 0.8562067747116089
+    },
+    {
+      "start": 4118.88,
+      "end": 4120.8,
+      "reaction_type": "cheering",
+      "score": 0.6725941300392151
+    },
+    {
+      "start": 4124.16,
+      "end": 4124.64,
+      "reaction_type": "cheering",
+      "score": 0.45459815859794617
+    },
+    {
+      "start": 4125.12,
+      "end": 4125.6,
+      "reaction_type": "applause",
+      "score": 0.37148424983024597
+    },
+    {
+      "start": 4127.52,
+      "end": 4128.0,
+      "reaction_type": "cheering",
+      "score": 0.4465213716030121
+    },
+    {
+      "start": 4128.48,
+      "end": 4129.92,
+      "reaction_type": "cheering",
+      "score": 0.5243797898292542
+    },
+    {
+      "start": 4129.44,
+      "end": 4130.88,
+      "reaction_type": "applause",
+      "score": 0.6429227590560913
+    },
+    {
+      "start": 4131.84,
+      "end": 4132.32,
+      "reaction_type": "applause",
+      "score": 0.43787881731987
+    },
+    {
+      "start": 4134.24,
+      "end": 4134.72,
+      "reaction_type": "applause",
+      "score": 0.5560486316680908
+    },
+    {
+      "start": 4135.2,
+      "end": 4135.68,
+      "reaction_type": "applause",
+      "score": 0.4251842200756073
+    },
+    {
+      "start": 4136.16,
+      "end": 4136.64,
+      "reaction_type": "cheering",
+      "score": 0.4229569733142853
+    },
+    {
+      "start": 4137.12,
+      "end": 4137.6,
+      "reaction_type": "applause",
+      "score": 0.3939889967441559
+    },
+    {
+      "start": 4137.6,
+      "end": 4138.08,
+      "reaction_type": "cheering",
+      "score": 0.3590340316295624
+    },
+    {
+      "start": 4139.04,
+      "end": 4139.52,
+      "reaction_type": "applause",
+      "score": 0.5054497718811035
+    },
+    {
+      "start": 4140.48,
+      "end": 4141.44,
+      "reaction_type": "applause",
+      "score": 0.5082584619522095
+    },
+    {
+      "start": 4142.88,
+      "end": 4143.84,
+      "reaction_type": "applause",
+      "score": 0.8331936001777649
+    },
+    {
+      "start": 4144.32,
+      "end": 4144.8,
+      "reaction_type": "applause",
+      "score": 0.3698241412639618
+    },
+    {
+      "start": 4145.28,
+      "end": 4146.24,
+      "reaction_type": "applause",
+      "score": 0.4843813180923462
+    },
+    {
+      "start": 4147.68,
+      "end": 4149.12,
+      "reaction_type": "applause",
+      "score": 0.6539512872695923
+    },
+    {
+      "start": 4151.04,
+      "end": 4151.52,
+      "reaction_type": "applause",
+      "score": 0.7063632607460022
+    },
+    {
+      "start": 4152.96,
+      "end": 4154.4,
+      "reaction_type": "applause",
+      "score": 0.8347458243370056
+    },
+    {
+      "start": 4155.36,
+      "end": 4156.32,
+      "reaction_type": "applause",
+      "score": 0.8186123371124268
+    },
+    {
+      "start": 4160.16,
+      "end": 4163.04,
+      "reaction_type": "applause",
+      "score": 0.8806125521659851
+    },
+    {
+      "start": 4164.48,
+      "end": 4164.96,
+      "reaction_type": "applause",
+      "score": 0.7604274153709412
+    }
+  ],
+  "note": "CPU-only TF (CUDA_VISIBLE_DEVICES='')"
+}
