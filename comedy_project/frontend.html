@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Comedy Stage (Audio)</title>
+    <style>
+        body { background-color: #1a1a1a; color: white; font-family: sans-serif; display: flex; flex-direction: column; align-items: center; height: 100vh; margin: 0; }
+        #stage { width: 80%; height: 60%; background-color: #2b2b2b; border-radius: 10px; padding: 20px; overflow-y: auto; margin-top: 20px; border: 1px solid #444; }
+        .msg { margin: 10px 0; padding: 10px; border-radius: 5px; max-width: 70%; }
+        .ai { background-color: #2e7d32; align-self: flex-start; }
+        .user { background-color: #1565c0; align-self: flex-end; margin-left: auto; }
+        #controls { margin-top: 20px; display: flex; gap: 10px; }
+        button { padding: 15px 30px; font-size: 18px; border: none; border-radius: 30px; cursor: pointer; color: white; transition: 0.3s; }
+        #micBtn { background-color: #d32f2f; }
+        #micBtn.recording { background-color: #ffca28; color: black; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+    </style>
+</head>
+<body>
+    <h1>🎤 Live Comedy Stage</h1>
+    <div id="stage"></div>
+    <div id="controls">
+        <button id="micBtn" onclick="toggleMic()">🎙️ Mic Off</button>
+    </div>
+
+    <script>
+        let socket;
+        let mediaRecorder;
+        let isRecording = false;
+
+        // server.py의 MEDIARECORDER_TIMESLICE_MS 와 반드시 동일해야 함
+        const TIMESLICE_MS = 500;
+
+        function connectWs() {
+            // [중요] 브라우저 주소가 https이면 wss(보안)를, http면 ws를 자동으로 선택
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/ws`;
+            
+            console.log("Connecting to WebSocket:", wsUrl); 
+
+            socket = new WebSocket(wsUrl);
+
+            socket.onopen = () => {
+                console.log("✅ WebSocket Connected!");
+                addMessage("System: Server connected ready.", 'ai');
+            };
+
+            socket.onmessage = function(event) {
+                // AI의 메시지를 채팅창에 추가
+                addMessage(event.data, 'ai');
+            };
+
+            socket.onerror = (error) => {
+                console.error("❌ WebSocket Error:", error);
+                addMessage("System: Connection Failed. Check console.", 'ai');
+            };
+            
+            socket.onclose = () => {
+                console.log("⚠️ WebSocket Disconnected");
+            };
+        }
+
+        function addMessage(text, type) {
+            const stage = document.getElementById('stage');
+            const div = document.createElement('div');
+            div.className = `msg ${type}`;
+            div.innerText = text;
+            stage.appendChild(div);
+            stage.scrollTop = stage.scrollHeight;
+        }
+
+        async function toggleMic() {
+            const btn = document.getElementById('micBtn');
+            if (!isRecording) {
+                // 마이크 켜기
+                try {
+                    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+
+                    // Chrome 기준: 보통 webm+opus가 지원됨
+                    const preferredMime = 'audio/webm;codecs=opus';
+                    const mimeType = MediaRecorder.isTypeSupported(preferredMime) ? preferredMime : 'audio/webm';
+                    mediaRecorder = new MediaRecorder(stream, { mimeType });
+                    
+                    mediaRecorder.ondataavailable = (event) => {
+                        if (event.data.size > 0 && socket.readyState === WebSocket.OPEN) {
+                            socket.send(event.data); // 오디오 데이터 전송
+                        }
+                    };
+
+                    // 0.5초마다 데이터를 잘라서 서버로 보냄 (반응 속도 조절)
+                    mediaRecorder.start(TIMESLICE_MS); 
+                    
+                    isRecording = true;
+                    btn.innerText = "🎧 Listening...";
+                    btn.classList.add('recording');
+                    addMessage("🎤 Microphone connected!", "user");
+                } catch (err) {
+                    alert("Error accessing microphone: " + err);
+                }
+            } else {
+                // 마이크 끄기
+                mediaRecorder.stop();
+                isRecording = false;
+                btn.innerText = "🎙️ Mic Off";
+                btn.classList.remove('recording');
+            }
+        }
+
+        connectWs();
+    </script>
+</body>
+</html>

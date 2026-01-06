@@ -1,0 +1,34 @@
+INFO 01-05 18:25:59 [__init__.py:216] Automatically detected platform cuda.
+[1;36m(APIServer pid=2446)[0;0m INFO 01-05 18:27:43 [api_server.py:1839] vLLM API server version 0.11.0
+[1;36m(APIServer pid=2446)[0;0m INFO 01-05 18:27:43 [utils.py:233] non-default args: {'model_tag': 'Qwen/Qwen3-Omni-30B-A3B-Instruct', 'api_key': ['comedy_key'], 'model': 'Qwen/Qwen3-Omni-30B-A3B-Instruct', 'trust_remote_code': True, 'tensor_parallel_size': 2}
+[1;36m(APIServer pid=2446)[0;0m Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'interleaved', 'mrope_interleaved'}
+[1;36m(APIServer pid=2446)[0;0m Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'interleaved'}
+INFO 01-05 18:28:19 [__init__.py:216] Automatically detected platform cuda.
+INFO 01-05 18:28:42 [__init__.py:216] Automatically detected platform cuda.
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_interleaved', 'mrope_section', 'interleaved'}
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'interleaved'}
+INFO 01-05 18:29:16 [__init__.py:216] Automatically detected platform cuda.
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'interleaved', 'mrope_interleaved', 'mrope_section'}
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'interleaved', 'mrope_section'}
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'mrope_interleaved', 'interleaved'}
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'interleaved'}
+INFO 01-05 18:30:12 [model.py:547] Resolved architecture: TransformersForMultimodalLM
+`torch_dtype` is deprecated! Use `dtype` instead!
+INFO 01-05 18:30:12 [model.py:1510] Using max model len 65536
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_interleaved', 'mrope_section', 'interleaved'}
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'interleaved'}
+INFO 01-05 18:30:28 [model.py:547] Resolved architecture: TransformersForMultimodalLM
+`torch_dtype` is deprecated! Use `dtype` instead!
+INFO 01-05 18:30:28 [model.py:1510] Using max model len 65536
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'interleaved', 'mrope_interleaved', 'mrope_section'}
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'interleaved', 'mrope_section'}
+INFO 01-05 18:31:05 [model.py:547] Resolved architecture: TransformersForMultimodalLM
+`torch_dtype` is deprecated! Use `dtype` instead!
+INFO 01-05 18:31:05 [model.py:1510] Using max model len 65536
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'mrope_interleaved', 'interleaved'}
+Unrecognized keys in `rope_scaling` for 'rope_type'='default': {'mrope_section', 'interleaved'}
+INFO:vllm_omni.config.model:Resolved architecture: Qwen3OmniMoeForConditionalGeneration
+INFO 01-05 18:31:33 [model.py:1510] Using max model len 65536
